@@ -1,0 +1,1087 @@
+﻿GUIA PRÁTICO DE DIREITO DO TRABALHO
+FERNANDO AFONSO MARQUES DE MELO (ORGANIZADOR)
+Ana Cristina Oliveira Aragão
+Maria Andressa Silva Dourado
+Ana Emanuely Carvalho de Oliveira
+Luiz Felipe França Pereira
+Jean Cláudio da Costa Santos
+Joel de Carvalho Fontenele
+Ana Clara Rodrigues Oliveira
+Ana Rebeca Veras Brito Fontenele
+José Roberto Sales Aragão
+Daryssa Rodrigues Viana
+Elivania dos Santos Marques
+Crislane Costa dos Anjos
+Daniele Alves Costa
+Editora
+FERNANDO AFONSO MARQUES DE MELO (ORGANIZADOR)
+GUIA PRÁTICO DE
+DIREITO DO TRABALHO
+1ª Edição
+Quipá Editora
+2024
+Copyright © dos autores e autoras. Todos os direitos reservados.
+Esta obra é publicada em acesso aberto. O conteúdo dos capítulos, os dados apresentados, bem como a revisão ortográfica e gramatical são de responsabilidade de seus autores, detentores de todos os Direitos Autorais, que permitem o download e o compartilhamento, com a devida atribuição de crédito, mas sem que seja possível alterar a obra, de nenhuma forma, ou utilizá-la para fins comerciais.
+Dados Internacionais de Catalogação na Publicação (CIP)
+G943 Guia prático de direito do trabalho / Organizado por Fernando Afonso Marques de Melo. ― Iguatu, CE : Quipá Editora, 2024.
+89 p. : il.
+ISBN 978-65-5376-337-1
+1.	Direito do trabalho. I. Melo, Fernando Afonso Marques de. II. Título.
+CDD 344
+Elaborada por Rosana de Vasconcelos Sousa ― CRB-3/1409
+Obra publicada pela Quipá Editora em maio de 2024
+Quipá Editora www.quipaeditora.com.br @quipaeditora
+APRESENTAÇÃO
+O direito do trabalho ocupa uma das mais importantes posições dentre os ramos do direito. Afinal, se ocupa do estudo de parcela das relações sociais e econômicas com pertinência e relevância direta nos contextos produtivos. Seja em âmbito acadêmico ou prático, há necessidade contínua de estudos e aprimoramentos, quanto aos temas que impactam as relações entre empresas e seus colaboradores.
+A importância do estudo prático das questões trabalhistas ultrapassa os limites da ciência jurídica e alcança a formação de contadores, administradores, economistas e outros profissionais das ciências sociais aplicadas. Diante disso, o presente trabalho parte de uma necessidade específica, qual seja, a de oferecer ao público um material de linguagem direta, objetiva e atenta às necessidades cotidianas de profissionais ou da sociedade em geral.
+O presente trabalho parte da vivência de estudantes do curso de ciências contábeis com os instrumentais teóricos e práticos do direito do trabalho. A partir da experiência em sala de aula ou em seus respectivos estágios e atividades de extensão, produziu-se uma obra cuja finalidade maior é garantir a democratização de acesso a um conteúdo de importância direta na vida de trabalhadores e empresas.
+Boa leitura.
+SUMÁRIO
+APRESENTAÇÃO
+CAPÍTULO 1	06
+CONTRATO DE TRABALHO
+CAPÍTULO 2	18
+DURAÇÃO DO TRABALHO
+CAPÍTULO 3	41
+ALTERAÇÃO DO CONTRATO DE TRABALHO
+CAPÍTULO 4	45
+SALÁRIO E REMUNERAÇÃO
+CAPÍTULO 5	50
+AVISO PRÉVIO E ENCERRAMENTO DO CONTRATO DE TRABALHO
+CAPÍTULO 6	77
+FGTS
+CAPÍTULO 7	81
+SEGURO-DESEMPREGO
+REFERÊNCIAS BIBLIOGRÁFICAS	88
+SOBRE OS AUTORES
+89
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 1
+CONTRATO DE TRABALHO
+Ana Cristina Oliveira Aragão
+Maria Andressa Silva Dourado
+CONCEITO DE CONTRATO DE TRABALHO
+Segundo a Consolidação das Leis do Trabalho (CLT) o Contrato individual de trabalho é o acordo tácito ou expresso, correspondente à relação de emprego. Ou seja, é um acordo entre o empregador e o empregado. O contrato de trabalho representa um acordo de vontades, que pode ser tácito ou expresso, pelo qual uma pessoa física (empregado) põe os seus serviços a disposição do empregador, que pode ser uma outra pessoa física, pessoa jurídica ou entidade. Ainda, se faz necessário ressaltar que o contrato de trabalho constitui o núcleo central do direito do trabalho, uma vez que é por seu intermédio que as normas trabalhistas são instrumentalizadas.
+CLASSIFICAÇÃO
+Existem diversas classificações dos contratos de trabalho, podendo citar como as principais, a classificação quanto à forma de celebração, podendo ser escritos ou verbais; quanto à regulamentação, em comuns e especiais; quanto aos sujeitos, em contrato individual e contrato de equipe; quanto ao modo de remuneração, por unidade de tempo, por unidade de obra ou misto e quanto à duração, o contrato poderá ser determinado e indeterminado.
+TIPOS DE CONTRATO DE TRABALHO
+A seguir serão evidenciados os principais tipos de contratos.
+Contrato por Prazo Determinado
+No que concerne ao contrato de trabalho por prazo determinado, também conhecido como contrato a termo, este é um acordo em que a sua conclusão já possui uma data predefinida, como indica o próprio nome. A Lei n° 13.467/17 em seu artigo 443, § 1, determina que a vigência do
+6
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+contrato de trabalho depende de acordo prefixado para execução de algum serviço ou ainda a realização de certos acontecimentos suscetíveis de previsão aproximada.
+Esse tipo de contrato em tese não é o adequado, visto que em regra no direito o ideal seria o contrato de trabalho por prazo indeterminado em virtude do princípio da continuidade. Dessa forma, A CLT estabelece quais são as circunstâncias em que é possível o acordo do contrato de trabalho por prazo determinado, caso não seja realizado o prazo que foi estabelecido, o contrato passa a ser considerado por prazo indeterminado.
+Ademais, devido ao fato de ser uma exceção a regra, o contrato de trabalho deve ser escrito. Na CLT não há determinação de que todas as formas de contrato de trabalho por prazo determinado sejam por escrito, mas o ideal é que ele seja, para evitar possíveis fraudes. Esse contrato só é tido como válido quando se tratar de serviço cuja natureza ou transitoriedade justifique a predeterminação do prazo, atividades empresariais de caráter transitório e contrato de experiência. Desse modo, caso certas condições estabelecidas na legislação não sejam atendidas, a consequência é que o contrato de trabalho, originalmente de prazo determinado, transforma-se em um contrato por prazo indeterminado.
+Com a finalidade de exemplificar as hipóteses de contrato de trabalho determinado elencadas no parágrafo anterior, no que se refere aos serviços no qual a natureza deles ou a transitoriedade justifica a predeterminação do prazo, tem-se as fábricas de chocolate que nos períodos que antecedem a Páscoa necessitam de uma mão de obra maior.
+Relacionado as atividades empresariais de caráter transitório é possível a contratação de mão-de-obra que atuará em uma construção específica e, no que se refere ao contrato de experiência, este representa uma categoria de contrato por prazo determinado, funcionando como um período de teste tanto para o empregado quanto para o empregador, uma fase em que ambas as partes medem a adequação do empregado ao cargo e as condições de trabalho.
+Conforme estabelecido pela CLT, em regra, um contrato de trabalho por prazo determinado não pode exceder o prazo de dois anos. No entanto, é permitido prorrogar esse contrato, desde que a extensão não ultrapasse o limite máximo estipulado por lei. Por exemplo, se uma empresa firma um contrato com um colaborador para um período de um ano e, ao término desse prazo, precisa continuar contando com os serviços desse trabalhador, a empresa pode prorrogar o contrato por mais um ano, desde que não ultrapasse o tempo máximo permitido pela legislação. Além disso, caso esse contrato de forma tácita ou expressa for prorrogado mais de uma vez ultrapassando o limite, passará a ser considerado como contrato indeterminado.
+7
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Por sua vez, a extinção do contrato determinado ocorrerá em duas hipóteses, consideradas como extinção normal e anormal. A extinção normal ocorre quando o contrato atinge espontaneamente o seu prazo estabelecido, e, nesse cenário, o empregado não se surpreende com o término do contrato, já a extinção anormal se dá pela finalização antes do prazo posto no contrato. Nesse último caso, há necessidade de se averiguar a existência de cláusula assecuratória do direito recíproco de rescisão antecipada.
+Segundo a CLT no seu artigo 481, os contratos por prazo determinado, que contiverem cláusula assecuratória do direito recíproco de rescisão antes de expirado o termo ajustado, aplicam-se, caso seja exercido tal direito por qualquer das partes, os princípios que regem a rescisão dos contratos por prazo indeterminado.
+Portanto, se o contrato possui cláusula assecuratória do direito recíproco de rescisão antecipada o empregado terá direito ao aviso prévio, férias proporcionais acrescidas de 1/3, 13° salário proporcional, liberação do FGTS e pagamento de multa de 40%. Porém se no contrato não tiver cláusula assecuratória do direito recíproco de rescisão antecipada pelas partes o artigo 479 da CLT assegura que, o empregador que, sem justa causa, despedir o empregado será obrigado a pagar-lhe, a título de indenização, e por metade, a remuneração a que teria direito até o termo do contrato.
+Ainda, caso o próprio empregado deseje se desvincular do emprego sem justa causa, ele está compelido a compensar o empregador por possíveis danos decorrentes dessa decisão. No entanto, é importante destacar que essa compensação não deve ultrapassar o valor que o colaborador teria direito em circunstâncias semelhantes.
+Contrato de trabalho intermitente
+O contrato de trabalho intermitente segundo a CLT é o contrato pelo qual a prestação de serviços, com subordinação, não é de forma contínua, a prestação ocorre de maneira alternada com períodos de inatividade. Além do mais, esse contrato é aplicado a todos os colaboradores, independentemente da atividade que exerçam, com exceção dos aeronautas que são regidos por legislação própria.
+Ademais, como o contrato intermitente constitui contrato de trabalho a sua realização depende de previsão expressa em acordo ou convenção coletiva de trabalho, esse contrato deve ser por escrito e deve conter de maneira especificada o valor da hora de trabalho. O referido valor não
+8
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+pode ser inferior ao aplicável à hora do salário-mínimo ou ao que é pago aos demais colaboradores da empresa que exerçam a mesma função no contrato intermitente ou não.
+• O contrato escrito deverá conter os seguintes dados:
+1-	Identificação, assinatura e sede das partes relacionadas;
+2-	Valor da hora ou do dia de trabalho, valor este que como já citado anteriormente não poderá ser inferior ao valor horário do salário-mínimo, tendo atenção a igualdade salarial em relação aos demais colaboradores;
+3-	Locais de prestação de serviços;
+4-	Turnos em que o empregado será convocado para prestar seus serviços;
+5-	Formas de convocação e de resposta para a prestação de serviços.
+Assim, o colaborador somente será chamado para trabalhar quando houver de fato a necessidade do seu serviço e, somente receberá o pagamento pelos dias trabalhados. Ademais, necessita ser observado no mínimo o prazo de três dias de antecedência para que o empregador convoque o empregado e, o empregado ao receber a convocação deverá enviar o seu aceite no prazo de um dia útil, entendendo como recusa o silêncio.
+O contrato intermitente surgiu com a intenção de desburocratizar o famoso “bico”, garantindo para os empregados mais direitos e trazendo para o empregador uma certa diminuição no que concerne ao pagamento da mão de obra, visto que antes o empregador contrataria por prazo indeterminado ou determinado.
+Ainda, destaca-se que pelo contrato intermitente, na qual o trabalhador exerce o trabalho de maneira não continua, no período em que ele estiver em inatividade não receberá salário e não estará à disposição do empregador, podendo ainda prestar serviços em outra empresa, mesmo que relativo a mesma atividade. Ademais, ao aceitar a oferta para comparecer ao trabalho, a parte que descumprir, sem justa causa, pagará a outra parte, no prazo de trinta dias, uma multa de 50% da remuneração que seria devida.
+Ao chegar ao fim de cada período de prestação de serviço, o empregado receberá o pagamento imediato das seguintes parcelas: remuneração; férias proporcionais com acréscimo de um terço; décimo terceiro salário proporcional; repouso semanal remunerado e adicionais legais, como de horas extras, de insalubridade, de periculosidade e noturno. Além de que, no contrato intermitente, a cada doze meses o empregado contrai o direito de usufruir nos doze meses seguintes de um mês de férias, período este que não poderá ser convocado para prestar serviços para o mesmo empregador.
+9
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Dessa forma, o empregado poderá ainda, mediante prévio acordo com empregador usufruir de suas
+férias em até três períodos.
+Diferença entre contrato intermitente e contrato temporário
+No contrato intermitente, a empresa pode contratar um colaborador para realizar tarefas de maneira esporádica, chamando-o apenas quando há demanda. Em oposição, no contrato temporário, existe um prazo máximo de 180 dias para a vigência do contrato. Esse tipo de contrato é bastante utilizado para atender a necessidades temporárias e sazonais, mas já tem uma limitação predefinida em relação ao tempo.
+1-	No contrato intermitente não existe prazo determinado, já no temporário sim;
+2-	No trabalho intermitente o colaborador é convocado pela empresa e recebe só pelo trabalho realizado, já no temporário não, o trabalhador fica à disposição da empresa e recebe pelo tempo em que não está atuando, e
+3-	No contrato intermitente o empregado pode ou não aceitar a convocação, já no temporário não pode haver essa recusa de convocação.
+Mapa mental para fixação do contrato intermitente
+O período de inatividade não é considerado como tempo à disposição do empregador.
+aceite
+Não se inicia e nem se extingue com o termino de cada período de trabalho, pelo contrário, o vínculo permanece.
+A parte que descumprir sem motivo, pagará a outra parte, no prazo de 30 dias multa de 50% da remuneração que seria devida.
+□ contrato deve ser escrito: deve constar a identificação, o domicilio e deve haver indicação do local e prazo do pagamento da remuneração.
+Elaborado pelas autoras
+É aquele em que a subordinação do serviço não é contínua, ocorrendo com alternância de períodos de prestação de serviços e inatividade.
+10
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Contrato de aprendizagem
+“Art. 428, CLT. Contrato de aprendizagem é o contrato de trabalho especial, ajustado por escrito e por prazo determinado, em que o empregador se compromete a assegurar ao maior de 14 (quatorze) e menor de 24 (vinte e quatro) anos inscrito em programa de aprendizagem formação técnico-profissional metódica, compatível com o seu desenvolvimento físico, moral e psicológico, e o aprendiz, a executar com zelo e diligência as tarefas necessárias a essa formação."
+O contrato de aprendizagem é um contrato por período determinado, definido como um contrato de trabalho especial, na qual o contratante se compromete em oferecer uma formação técnico-profissional para o jovem, entre 14 e 24 anos, tendo como contrapartida a execução das atividades de responsabilidade do aprendiz. Vale salientar que a idade máxima, de 24 anos, não se aplica às pessoas com deficiência.
+Para a validação do contrato, faz-se necessária a assinatura na carteira de trabalho e previdência social, tal característica difere do contrato de estágio. Além disso, é importante enfatizar que o jovem precisa estar matriculado na escola e devidamente frequentando-a (se ainda não houver concluído o Ensino Médio), o qual, caso haja perda do ano letivo em decorrência de ausências não justificadas, levará à extinção do contrato. O aprendiz deve ser inscrito em programas de formação e o prazo não deve superar dois anos, ou seja, em outras palavras, o contrato de aprendizagem pode ser entendido como um contrato por tempo determinado.
+A seguir serão sintetizados os principais pontos em relação ao contrato de aprendizagem:
+Requisitos do contrato de aprendizagem
+•	Ajuste por escrito – Deve conter todas as informações pertinentes, como por exemplo, o valor, endereço das atividades exercidas e quais as atividades serão de competência do aprendiz.
+•	Inscrição em programa de formação técnico profissional custeado pela empresa contratante.
+Validade
+•	Anotação na carteira de trabalho e previdência social
+•	Matrícula e frequência
+11
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Garantias (proporcional)
+•	Salário-mínimo - hora
+“	§ 2o Ao aprendiz, salvo condição mais favorável, será garantido o salário-mínimo hora.”
+•	FGTS será reduzido de 2% (Lei n. 8.036/90)
+•	Auxílio alimentação
+Duração do contrato
+•	O contrato será válido por no máximo dois anos.
+“§ 3o O contrato de aprendizagem não poderá ser estipulado por mais de 2 (dois) anos, exceto quando se tratar de aprendiz portador de deficiência.”
+Quantitativo de oferta
+•	No Mínimo 5% e no máximo 15% do efetivo da empresa.
+“Art. 429. Os estabelecimentos de qualquer natureza são obrigados a empregar e matricular nos cursos dos Serviços Nacionais de Aprendizagem número de aprendizes equivalente a cinco por cento, no mínimo, e quinze por cento, no máximo, dos trabalhadores existentes em cada estabelecimento, cujas funções demandem formação profissional.”
+Exemplo: Empresa A&C Contabilidade dispõe de 100 funcionários, nessa situação, deverá ter entre 5 -15 aprendiz.
+Jornada
+•	A Jornada de trabalho não poderá exceder 6 horas diárias.
+“Art. 432. A duração do trabalho do aprendiz não excederá de seis horas diárias, sendo vedadas a prorrogação e a compensação de jornada.”
+Causas de extinção
+•	Atingir 24 anos de idade (exceto portadores de deficiência);
+12
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	Desempenho insuficiente;
+•	Falta disciplinar grave;
+•	Ausência injustificada a escola que implique perda do ano letivo, além disso, não pode reprovar na escola;
+•	A pedido do aprendiz.
+Rescisão do contrato de trabalho
+•	Assina um termo
+•	Todos os direitos são pagos proporcionalmente
+Exemplo: Acontece a rescisão do contrato do aprendiz da Empresa A&C Contabilidade, nesse caso, todos os direitos rescisórios, como por exemplo, décimo terceiro e férias, serão pagos proporcionalmente.
+PERGUNTAS E RESPOSTAS SOBRE O ASSUNTO
+1.	O contrato poderá ser renovado com o mesmo aprendiz após a finalização deste?
+R: Não pode, pois, como mencionado, para a realização das atividades, é necessário que o contrato esteja vinculado com o curso de formação, o qual, é elaborado para determinado período, ou seja, no máximo dois anos.
+2.	O Aprendiz tem direito às férias?
+R: Sim. O aprendiz goza de direito às férias.
+3.	Quais os estabelecimentos obrigados a contratar jovem aprendiz?
+R: Os estabelecimentos que tenham no mínimo 7 funcionários. Sendo facultativo para microempresas, empresas de pequeno porte e entidades sem fins lucrativos, segundo a CLT.
+Elaborado pelas autoras
+13
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Contrato de estágio
+O estágio é regulado pela Lei 11.788/2008, todos os artigos citados nesse tópico, são retirados da referida Lei.
+“Art. 1° Estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo de educandos que estejam frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio, da educação especial e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.”
+O Estágio é configurado por três partes, sendo elas, o estagiário, a concedente e a instituição de ensino. Algo importante a ser enfatizado é que para a realização do estágio, é necessária a matrícula do estudante na instituição de ensino. Além disso, o exercício das atividades deve guardar compatibilidade com a formação do estagiário. Um exemplo disso é que se o indivíduo cursa ciências contábeis, o estágio deverá ser realizado dentro das competências formativas do estudante.
+O estagiário não deve ser confundido com empregado. De maneira geral, o estágio não tem o intuito de conceder um trabalho, uma vez que o intuito é ajudar profissionalmente o estudante, contribuindo para a sua formação.
+É importante se atentar aos requisitos para a validação do contrato de estágio. Se porventura houver a falta de um desses requisitos, ele poderá caracterizar vínculo de emprego; inclusive, quando realizado de maneira “maquiada. Em tal situação, o vínculo poderá ser reconhecido e todos os direitos correspondentes deverão ser pagos.
+Estes estão previsto no Art 3° da Lei 11.788.
+•	Matrícula e frequência regular do educando na instituição de ensino
+•	Celebração do termo de compromisso entre as partes (Estagiário, Concedente e instituição de ensino), caso não houver, configura como vínculo de emprego
+•	Compatibilidade entre as atividades desenvolvidas no estágio com as previstas no termo de compromisso.
+Exemplo: Um estudante de contabilidade vai estagiar em um determinado escritório. Em seu termo de compromisso consta as atividades que serão desempenhadas, sendo elaborar folha de pagamento, baixar e importar notas e fazer controle de empregados. Entretanto, ao iniciar as atividades, ele faz apenas café e atender ligações. Tal situação difere dos requisitos
+14
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+previstos no artigo. Se for comprovado a incompatibilidade, não se tem estágio, fazendo criar um vínculo empregatício composto de todos os direitos assegurados.
+O período de estágio é limitado a dois anos, exceto em caso de pessoa com deficiência. Outrossim, o estagiário, em caso de prestação de atividades igual ou superior a 1 ano, gozará de 30 dias de recesso, preferencialmente coincidindo com suas férias escolares.
+Dentre os Direitos do estagiário:
+•	O estagiário poderá receber bolsa auxílio, sendo o pagamento deste facultativo e previsto no termo de compromisso. Bem como auxílio-transporte.
+Art. 12. O estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório.
+•	Jornada de trabalho de 4 horas diárias (20 horas semanais) para estudantes do ensino fundamental e jornada de 6 horas diárias (30 horas semanais) para estudantes do ensino superior e médio. Caso o estágio seja relativo à teoria e prática, poderá ter duração de 40 horas semanais, desde que seja previsto na instituição de ensino.
+Art. 10. A jornada de atividade em estágio será definida de comum acordo entre a instituição de ensino, a parte concedente e o aluno estagiário ou seu representante legal, devendo constar do termo de compromisso ser compatível com as atividades escolares e não ultrapassar:
+I– 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos;
+II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular.
+PERGUNTAS E RESPOSTAS SOBRE O ASSUNTO
+1.	O estagiário tem Direito às férias?
+R: Em tese, não. O que o estagiário tem direito é de um recesso de 30 dias em caso de duração de um ano ou superior a isso. Diferentemente das férias, o estagiário não receberá o terço constitucional. Este recesso poderá ser remunerado ou não.
+15
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Art. 13. É assegurado ao estagiário, sempre que o estágio tenha duração igual ou superior a 1 (um) ano, período de recesso de 30 (trinta) dias, a ser gozado preferencialmente durante suas férias escolares.
+§ 1o O recesso de que trata este artigo deverá ser remunerado quando o estagiário receber bolsa ou outra forma de contraprestação.
+§ 2o Os dias de recesso previstos neste artigo serão concedidos de maneira proporcional, nos casos de o estágio ter duração inferior a 1 (um) ano.
+Elaborado pelas autoras
+Contrato de teletrabalho
+De acordo com a Lei n° 13.467/17 no seu art. 75-B teletrabalho é considerado como a prestação de serviços fora das dependências do empregador, com a utilização de tecnologias de informação e de comunicação que, por sua natureza, não se constituam como trabalho externo. Em outras palavras, o teletrabalho ou trabalho sucedido de maneira remota é aquele cujo colaborador não está submetido a supervisão direta e pessoal do chefe ou supervisor, já que sua jornada de trabalho é cumprida em um ambiente virtual. Dessa forma, o teletrabalho como forma de trabalho a distância pode ser realizado na habitação do empregado ou em centros de teletrabalho.
+Ainda, com o intuito de transmitir mais clareza e transparência aos direitos e obrigações da prestação de serviços na modalidade de teletrabalho tem-se o contrato individual de trabalho, contrato este que deverá detalhar quais atividades serão realizadas pelo empregado.
+No teletrabalho a utilização de ferramentas telemáticas é indispensável para a realização eficiente e eficaz do trabalho. A partir disso, é de extrema importância que o teletrabalho seja prestado com a utilização dos referidos instrumentos. Afinal, o que caracteriza o trabalho a distância como teletrabalho é o emprego dos mecanismos de comunicação e transmissão da informação entre o empregador e o empregado.
+No contrato será prevista a responsabilidade no que se refere a aquisição, manutenção ou fornecimento dos equipamentos tecnológicos e da infraestrutura necessária e adequada à prestação do trabalho remoto, bem como ao reembolso de despesas arcadas pelo empregado. Não menos importante, o empregador tem o dever de instruir os empregados, de maneira explícita e evidente
+16
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+quanto às precauções a tomar a fim de evitar doenças, principalmente, doenças relacionadas a repetição contínua de movimentos como a Lesão por Esforço Repetitivo (LER) e acidentes de trabalho.
+Regras para o teletrabalho:
+1-	Contratação poderá ser por tarefa ou produção;
+2-	Empregado poderá alternar trabalho em casa ou na empresa;
+3-	Horário de teletrabalho deverá assegurar repouso legal;
+4-	Uso de ferramentas fora do horário de trabalho não será sobreaviso;
+5-	Aprendizes e estagiários poderão fazer teletrabalho, e
+6-	Empregados brasileiros que faça teletrabalho no exterior estão sujeitos à lei brasileira.
+17
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 2
+DURAÇÃO DO TRABALHO
+Ana Emanuely Carvalho de Oliveira Luiz Felipe França Pereira
+CONCEITOS
+Duração de Trabalho: A duração de trabalho refere-se ao período durante o qual um indivíduo está ativamente envolvido em suas atividades profissionais.
+Jornada de Trabalho: Exploração dos diferentes tipos de jornadas de trabalho, incluindo tempo integral, meio período, horários flexíveis e como essas variações afetam a duração total de trabalho.
+Legislação e Normas: Destaque para as leis e regulamentações que estabelecem limites para a duração da jornada de trabalho, visando proteger os direitos dos trabalhadores e promover um equilíbrio entre trabalho e vida pessoal.
+Jornada semanal no Brasil
+Art. 58 - A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+Carga Horária Padrão: No Brasil, a carga horária padrão de trabalho é de 44 horas semanais, distribuídas geralmente em oito horas diárias durante cinco dias úteis.
+Legislação Trabalhista: A Consolidação das Leis do Trabalho (CLT) estabelece as normas relacionadas à jornada de trabalho, incluindo horas extras, descansos e limites para proteger os direitos dos trabalhadores.
+18
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Horas Extras: Quando necessário, as horas trabalhadas além da jornada regular são consideradas horas extras, geralmente compensadas com acréscimo no pagamento, conforme estipulado pela legislação.
+Banco de Horas: O sistema de banco de horas é utilizado para acumular horas extras trabalhadas, permitindo que o funcionário as compense posteriormente com folgas ou redução da jornada em determinado período.
+Trabalho Remoto e Flexibilidade: Com o avanço da tecnologia, o trabalho remoto tem ganhado espaço, proporcionando maior flexibilidade na jornada de trabalho, desde que acordado entre empregador e empregado.
+Categoria de jornadas diferentes :Como já vimos a CLT estabelece que a jornada semanal não possa ultrapassar de 44 horas semanais, 8 horas diárias. Mas com a alteração trazida pela reforma trabalhista, Lei n°13.467/17 pode haver uma redução, compensação de horas, desde que tenha um acordo firmado individual. Com o surgimento de novas profissões foi necessário alterar as jornadas de trabalhos para se adequar ao mercado e suas necessidades. Existem diferentes tipos de escala, como vamos ver a seguir.
+ESCALA 5X1
+A escala tem um foco maior na produtividade dos funcionários e da empresa. Existe para que as atividades da empresa sejam realizadas de modo contínuo, haja vista que um funcionário cobrirá outro. Destaca-se que pressupõe que o empregado trabalhe cinco dias da semana e tenha folga na sequência. A CLT prevê que o normal do descaso semanal remunerado seja oferecido aos domingos, mas nem sempre será possível nessa escala. A lei garante que a folga aos domingos desses funcionários seja seguida dessa forma:
+•	a cada 15 dias para mulheres, caso de dupla jornada.
+•	a cada sete semanas, para homens.
+19
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Caso a empresa não cumpra essa norma poderá ser multada. Para poder entender melhor o descanso semanal remunerado, disponibiliza-se a tabela a seguir. Em verde, os dias trabalhados. Em vermelho, seus dias de folga.
+O ponto central da escala é o revezamento, por meio do qual são necessários três funcionários trabalhando na mesma função, de forma que isso permita o estabelecimento de turnos de trabalho. A empresa deve assegurar o período para refeições, normalmente de 1 hora e com limite de 2 horas previstos em lei.
+SEG	TER	QUA	QUI	SEX	SAB	DOM
+					1	2
+3	4	5	6	7	8	9
+10	11	12	14	15	16	17
+18	19	20	21	22	23	24
+25	26	27	28	29	30	31
+Exemplo: empresas de telemarketing, cuja demanda é continua em seus atendimentos aos usuários dos serviços. Logo, é necessário o estabelecimento de turnos organizados de revezamento.
+ESCALA 5X2
+A escala 5X2 é a mais conhecida do Brasil, normalmente essa é adotada pela maioria das empresas. Nessa escala, o funcionário trabalha cinco dias na semana e folga dois dias. A jornada pode variar, mas é comum que seja 8 horas diárias e 40 horas semanais. Geralmente, as folgas caem no final de semana, mas em caso de trabalho de revezamento o funcionário necessariamente não precisa cumprir seu horário durante a semana e folgar os fins de semana. Por exemplo, o funcionário pode iniciar sua jornada quarta-feira e folgar terça-feira. Ainda, a partir do que dispõe o artigo 58 da CLT, é possível verificar que:
+20
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+‘‘a duração do trabalho não pode ultrapassar 8 horas por dia. Sendo assim o funcionário pode trabalhar duas extras por dia, recebendo o devido acréscimo em sua remuneração mensal’’
+Exemplos de escala 5X2:
+•	Jornada de 30 horas – 5 horas por dia (segunda a sexta) e descanso sábado e domingo
+•	Jornada de 36 horas – 7,2 horas por dia e descanso sábado e domingo
+•	Jornada de 40 horas – 8 horas por dia e descanso sábado e domingo
+•	Jornada de 44 horas – 8h48min por dia e descanso sábado e domingo. Nesse exemplo de jornada se trabalha com compensação de horas.
+ESCALA 6X1
+A escala 6x1 ocorre quando o funcionário trabalha seis dias na semana e folga no sétimo dia, que normalmente costuma ser no domingo. Mas, por meio de ajuste entre as partes é possível estabelecer condição distinta.
+Exemplo: alguém que trabalhe de terça-feira e folgue segunda-feira. Não há impedimento legal, desde que seja respeitada a jornada de até 8 horas diárias e 44 horas semanais, ressalvados os limites legais de hora extraordinária.
+As
+s de horário
+ser feitas nessa escala é a
+de 7 horas e 20 minutos
+em todos os dias de trabalho ou a jornada de 8 horas de segunda a sexta-feira e 4 horas aos sábados. O formato vai depender das necessidades da empresa e do trabalhador. O intervalo intrajornada nessa escala depende de qual jornada diária do trabalhador, se passar de 6 horas diárias ele tem direito entre uma e duas horas de intervalo.
+ESCALA 12X36
+A escala 12x36 é aquela em que o trabalhador exerce suas funções por 12 horas seguidas e descansa 36 horas, com direito de descanso de 1 hora. Essa escala é muito comum para quem exerce a função em área da saúde e de vigilância. Essa escala teve algumas mudanças com a reforma trabalhista, antes ela necessitava de apenas um acordo coletivo, hoje já está prevista na CLT e um
+21
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+acordo individual entre as partes é suficiente. Algumas alterações promovidas pela reforma trabalhista foram: • Antes da reforma essa escala era reconhecida em determinadas funções, depois da reforma a escala passou a ser prevista art. 59-A da CLT, o qual evidencia que o modelo pode ser usado por qualquer empresa:		
+	‘‘O modelo pode ser usado em qualquer empresa, já que ele é bastante versátil. Para isso, basta apenas que ela respeite o limite de jornada de 44 horas semanais’’	
+• A súmula 444 do TST era utilizada para resolver conflitos dessa escala. A súmula previa que o empregado que trabalhasse aos domingo e feriados tinha o direito de receber em dobro. Mas, com a mudança da reforma a sumula perdeu a eficácia já que o empregado vai receber a folga no dia seguinte. O Art.9 da lei 605/49, prevê:		
+	Art.9 ‘‘Nas atividades em que não for possível, em virtude das exigências técnicas das empresas, a suspensão do trabalho, nos dias feriados civis e religiosos, a remuneração será paga em dobro, salvo se o empregador determinar outro dia de folga.’’	
+•	A lei estabelece após a reforma que o contrato individual entre o empregado e empregador é suficiente para estabelecer uma nova escala. •	Após a reforma o trabalhador dessa modalidade de escala não tem direito ao descanso semanal remunerado. •	o salário de quem atua nessa escala é calculado levando em conta a jornada prevista no ajuste. Portanto, o pagamento de horas extras só acontece quando o horário do acordo for ultrapassado. Ademais, quando o turno do trabalhador for noturno ele terá o direito a receber o adicional de 20% e terá o direito a uma jornada de trabalho reduzida de 52 minutos e 30 segundos.		
+22
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Exemplo: Lis trabalha como vigilante das 23h às 12h. Nesse caso haverá horário noturno de Lis e a carga reduzida vai ser das 23h às 5h.
+TELETRABALHO
+O teletrabalho é o trabalho na qual o funcionário presta seus serviços fora das dependências da empresa, utilizando tecnologias de informação e comunicação. O funcionário deve estar no local escolhido para exercer suas funções sempre que necessário, é importante ressaltar que o teletrabalho não é considerado um trabalho externo. O teletrabalho foi oficializado com a reforma trabalhista de 2017, o art. 75-b da CLT, prevê:
+Art. 75-B ‘‘considera-se teletrabalho ou trabalho remoto a prestação de serviços fora das dependências do empregador, de maneira preponderante ou não, com a utilização de tecnologias de informação e de comunicação que, por sua natureza, não configura trabalho externo’’
+O modelo de teletrabalho deve constar no contrato de trabalho, no Art. 75-C prevê:
+‘‘Art. 75-C a prestação de serviços na modalidade de teletrabalho deverá constar expressamente do instrumento de contrato individual de trabalho’’
+§ 1o Poderá ser realizada a alteração entre regime presencial e de teletrabalho desde que haja mútuo acordo entre as partes, registrado em aditivo contratual.
+§ 2o Poderá ser realizada a alteração do regime de teletrabalho para o presencial por determinação do empregador, garantido prazo de transição mínimo de quinze dias, com correspondente registro em aditivo contratual.
+23
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Muitas vezes o teletrabalho é confundido com home office, existem elementos diferenciadores, como:
+•	Teletrabalho é previsto e tem suas regras seguidas pela CLT, o home office não é citado na lei
+•	O teletrabalho pode ser executado em qualquer lugar fora das dependências da empresa, já o home office é executada na casa do funcionário.
+•	O teletrabalho não exige um controle de trabalho, já o home office segue as regras da jornada presencial
+O teletrabalho é visto como um benefício, trazendo muita flexibilidade tanto para funcionário quanto para o empregador. Os benefícios que podem conseguir com o benefício são:
+•	Trazem uma redução de gastos para empresa
+•	Flexibilidade na hora de recrutas novos funcionários
+•	Maior autonomia para o funcionário que vai poder montar sua rotina e gerenciar suas responsabilidades e jornada de trabalho.
+•	Melhor qualidade de vida para o trabalhador que terá a possibilidade de uma rotina menos corrida e estressante .
+Sobre o controle de ponto? Como funciona no teletrabalho?
+No teletrabalho, não há previsão legal sobre o controle do ponto, diferentemente do home office que possui controle. Contudo, não há impedimento à instituição de controle de ponto, por parte da empresa.
+ALTERAÇÃO DA LEI DE LIBERDADE ECONÔMICA
+A lei de liberdade econômica de 2019, surgiu com o intuito de diminuir o controle do estado nas atividades econômicas do brasil, sendo resultado de uma medida provisória que visou desburocratizar processos na relação de empregador e seus funcionários.
+Ocorreram algumas mudanças com vigência da lei de liberdade econômica, como:
+24
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	controle de ponto: antes da alteração o ponto era exigido para a empresa que tivesse mais de 10 funcionários, agora passou a ser exigido apenas para empresas com mais de 20 funcionários
+Obs.: por mais que o ponto seja exigido para empresas com mais de 20 funcionários, é importante a realização do ponto para a empresa ter controle dos horários dos funcionários na hora da folha de pagamento e assim não haver erro nos cálculos.
+•	Ponto por exceção: é uma opção levada em conta em relação ao ponto tradicional, por considerar situações que é fora da rotina, como: atrasos, faltas, horas extras. Nesse tipo de ponto a empresa e o funcionário devem deixar horário de entrada e saída já predeterminado. Isso traz praticidade na hora de calcular a folha de pagamento
+•	Ponto para trabalhadores externos: se torna obrigatório, responsabilidade do próprio funcionário da empresa. O ponto pode ser feito de forma manual, mecânica e eletrônica, o empregador deve achar formas confiáveis para controlar esse ponto.
+TRABALHO NOTURNO
+O trabalho noturno é aquele prestado, em regra, das 22 horas às 5 horas. O que é bastante comum na indústria, no setor da saúde e em outros que não podem interromper suas atividades durante a noite. A lei entende que o trabalho noturno sujeita os funcionários a desgastes maiores, criando especificidades quando comparado à jornada diária.
+Exemplo: Um operador de uma central de atendimento de emergência, pode ser chamado para lidar com situações críticas durante a noite, fornecendo assistência médica de emergência, coordenando equipes e prestando suporte vital aos pacientes. Outro exemplo que podemos citar é o farmacêutico que atua em uma farmácia 24 horas, ele desempenha um papel crucial ao fornecer serviços farmacêuticos durante a noite, atendendo clientes que podem precisar de medicamentos urgentes ou conselhos sobre saúde fora do horário comercial convencional
+25
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Alguns dos principais pontos que diferenciam a jornada de trabalho noturno do trabalho diurno é a composição da remuneração dos funcionários, existem alguns critérios a serem seguidos:
+→ Hora Ficta: Têm a extensão de 52 minutos e 30 segundos, ao contrário da hora diurna que possui 60 minutos.
+→ Adicional Noturno: Acréscimo de pelo menos 20% sobre o valor da hora diurna.
+ATENÇÃO: Menor de 18 anos não pode prestar serviços noturnos
+Art. 404. Ao menor de 18 anos é vedado o trabalho noturno, considerado este o que for executado no período compreendido entre as 22 (vinte e duas) e as 5 (cinco) horas.
+OUTROS ADICIONAIS
+→ Adicional de Insalubridade: O adicional de insalubridade, conforme previsto nos artigos 189 a 197 da CLT, é devido quando o trabalhador exerce suas atividades em condições insalubres que coloquem sua saúde em risco. A porcentagem varia de acordo com o grau de insalubridade.
+Exemplo: Maria trabalha como auxiliar de limpeza em um hospital. De acordo com a avaliação realizada pela empresa, a função dela é considerada insalubre devido à exposição a agentes biológicos, ela realiza a limpeza de áreas hospitalares, incluindo quartos de pacientes, banheiros e áreas de circulação. Sua função a expõe a agentes biológicos como vírus, bactérias e materiais contaminados.
+Conforme as normas estabelecidas na CLT, Maria tem direito a receber um adicional de insalubridade de acordo com o grau de exposição a esses agentes. No caso específico, a exposição é classificada como grau máximo de insalubridade.
+O adicional de insalubridade, neste caso, é de 40% sobre o salário-mínimo nacional, conforme previsto na Norma Regulamentadora 15. Se o salário-mínimo é R$ 1.100, o
+26
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+adicional seria de R$ 440. Portanto, Maria recebe além do salário base, um adicional de insalubridade de R$ 440 por mês como compensação pela exposição a condições insalubres em seu ambiente de trabalho.
+→ Adicional de Periculosidade: O adicional de periculosidade, definido nos artigos 193 e 195 da CLT, é devido aos trabalhadores que exercem atividades perigosas, conferindo um acréscimo de 30% sobre o salário base.
+Exemplo: João é um eletricista que trabalha para uma empresa de distribuição de energia. Ele realiza manutenções em instalações elétricas, incluindo postes e redes de alta tensão. Em sua rotina de trabalho, lida diretamente com eletricidade em alta voltagem, o que o expõe a riscos significativos de acidentes, como choques elétricos e incêndios. Conforme as normas da CLT, a atividade de eletricista é considerada perigosa, conferindo o direito a um adicional de periculosidade. Esse adicional é de 30% sobre o salário base de João. Se o salário base de João é R$ 3.000, ele receberá um adicional de periculosidade de 30% sobre esse valor, totalizando R$ 900. João recebe, além do salário base, um adicional de periculosidade de R$ 900 por mês como compensação pelos riscos envolvidos em sua atividade perigosa.
+→ Adicional de Transferência: O adicional de transferência, definido no artigo 469 da CLT, é devido quando o empregador transfere o empregado para um local diferente daquele em que foi contratado. Esse adicional visa compensar despesas adicionais decorrentes da mudança.
+Exemplo: João é um servidor público que trabalha em um órgão federal em Brasília. Ele é transferido para o Rio de Janeiro devido a uma necessidade de serviço. A transferência é feita no interesse da administração, e João precisa se mudar para o Rio de Janeiro para continuar desempenhando suas funções. Com a transferência, João tem direito ao adicional de transferência, que é uma compensação financeira para ajudar a cobrir os custos associados à mudança de cidade. Esse adicional é regulamentado por leis e normas específicas do serviço público, e o valor pode variar.
+27
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+→ Adicional por Tempo de Serviço em Atividade Penosa: Previsto pelo artigo 1º da Lei 4.244/63, concede um adicional aos empregados que trabalham em atividades penosas, insalubres ou perigosas, proporcionando um acréscimo de 10% no salário a cada cinco anos de serviço.
+Art. 73 - Salvo nos casos de revezamento semanal ou quinzenal, o trabalho noturno terá remuneração superior à do diurno e, para esse efeito, sua remuneração terá um acréscimo de 20 % (vinte por cento), pelo menos, sobre a hora diurna.
+TRABALHADOR URBANO
+Trabalhador Urbano	22h às 5h	Adicional 20%
+A jornada noturna será computada das vinte duas (22) às cinco da manhã (05), se contarmos a jornada pode-se afirmar que não há uma carga horária de 8 horas, pois o mesmo conta com a Hora Ficta (Hora reduzida/hora Limitada) composta por 52 minutos e 30 segundos. Tal período é menor por conta da gravidade da situação de prestar os serviços noturnos, onde o trabalhador não tem uma rotina muito adequada. Ele ganha um adicional noturno equivalente a 20% sobre o valor da hora normal.
+LEMBRETE: Qualquer tipo de adicional noturno será sempre salário condição, ele vai receber enquanto estiver prestando o serviço, a partir do momento que a referida pessoa for transferida para outro turno, se encerra qualquer tipo de adicional.
+Exemplo: Francisco Antônio é um profissional que trabalham em posto de gasolina urbano que opera durante a noite para atender clientes que precisam de combustível ou outros serviços. Ele tem direito do adicional noturno.
+28
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+TRABALHADOR RURAL( AGRICULTURA/ PECUÁRIA)
+Trabalhador Rural (Agricultura)	21h às 5h	Adicional 25%
+A jornada do trabalhador rural da agricultura se inicia as vinte uma (21) e vai até as cinco da manhã (5), durante esse período ele desenvolve atividades desde o cuidado com o solo até o plantio e a colheita. Para ele não existe hora ficta, e o adicional será maior que o do trabalhador urbano, sendo cerca de 25% sobre o valor da hora normal
+Trabalhador Rural (Pecuária)	20h às 4h	Adicional 25%
+A jornada do trabalhador rural da pecuária se inicia as vinte (20) e vai até as quatro da manhã (4), durante esse período ele desenvolve seus serviços fazendo a supervisão dos animais que ali residem dentre outros. Para o trabalhador da pecuária também não existe hora ficta, e o adicional será maior que o do trabalhador urbano, sendo de 25% sobre o valor da hora normal.
+Exemplo: João é um trabalhador rural que se dedica à pecuária em uma fazenda local. Ele trabalha no manejo e cuidado de animais, especificamente na criação de gado bovino. Suas atividades diárias incluem alimentar o gado, garantir que tenham acesso à água fresca, realizar a limpeza das áreas de pastagem e providenciar cuidados veterinários quando necessário. Recentemente, João percebeu que uma das vacas estava apresentando sinais de desconforto. Ele prontamente contatou o veterinário da fazenda, que diagnosticou que a vaca estava com uma leve infecção no casco. João seguiu as orientações do veterinário, administrou os medicamentos necessários e monitorou de perto a recuperação da vaca. Além disso, João desempenha um papel fundamental na reprodução do gado, auxiliando no manejo durante o período de reprodução e no cuidado com as crias recém-nascidas. Sua dedicação e conhecimento na pecuária são essenciais para garantir o bem-estar dos animais e o sucesso da atividade na fazenda.
+29
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+TRABALHO EXTRAORDINÁRIO
+O trabalho extraordinário é aquele prestado pelo funcionário fora da sua jornada de trabalho, essa duração da hora extraordinária não pode ultrapassar 2 horas diárias. O Art. 59, prevê:
+Art. 59 ‘‘a duração diária do trabalho não poderá ser acrescida de horas extras, em número não excedente de duas horas, por acordo individual, convenção ou acordo coletivo de trabalho’’
+É direito do trabalhador receber uma remuneração de no mínimo 50% quando tiver que realizar um trabalho extraordinário. Previsto no inciso 1 do art. 59 da CLT:
+1° ‘‘a remuneração da hora extra será, pelo menos 50% superior à da hora normal’’
+Isso vale para qualquer trabalho extraordinário?
+Não, quando o trabalho extraordinário for no quesito de compensar horas, o empregado não tem direito a remuneração
+Exemplo: No contrato de Paulo consta que a jornada semanal dele é de 44 horas semanais. Mas, a empresa funciona apenas de segunda a sexta, totalizando 40 horas semanais. Então para completar a carga horarias e completar as 4 horas restantes, Vitor tem uma jornada diária de 8 horas e 48 minutos de segunda a sexta e assim completar as 44 horas semanais.
+Sobre a compensação de horas o inciso VI, do art. 59 da CLT, prevê:
+‘‘é lícito o regime de compensação de jornada estabelecido por acordo individual, tácito ou escrito, para a compensação no mesmo mês’’
+30
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Como é calculado a hora extra?
+Exemplo: Antônio tem um salário de R$3.500,00 por mês e trabalha 220 horas mensais, a empresa costuma pagar 70% de remuneração de horas extras. Em um dia, quanto Antônio ganha de horas extra trabalhando duas horas a mais de sua jornada?
+•	A primeira coisa que se deve saber é quanto Antônio recebe por hora: Salário por hora: R$3.500,00/220= R$15,909
+•	Após vamos multiplicar essa hora pela quantidade de remuneração Remuneração de hora extra: R$15,909 X 1,70=27,05
+•	Agora multiplicar esse valor da remuneração pela quantidade de horas extra trabalhadas:
+Valor das horas extras: R$27,05x2= R$54,09
+PRONTIDÃO E SOBREAVISO
+PRONTIDÃO
+O horário de prontidão é a situação pela qual o funcionário fica nas dependências do local de trabalho, aguardando as ordens do empregador. A escala de prontidão será no máximo 12 horas e o funcionário receberá 2/3 do salário hora-normal. Para entender melhor, vamos ver como o cálculo funciona:
+•	O primeiro passo é descobrir o valor da hora do funcionário e depois dividir por 220.
+•	Para descobrir o valor de prontidão deve-se extrair 2/3 do resultado do primeiro tópico.
+•	Por último, multiplicar pela hora de prontidão.
+E se o funcionário trabalhar 4 horas das 12 horas de prontidão, como ele receberá? Ele recebera as quatro horas em relação ao valor por hora que ele recebe e o restante vai receber pelo horário de prontidão.
+31
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Exemplo: Paulo trabalha em regime de prontidão, ele fica 12 horas esperando por ordens de trabalho. Em um dia trabalho ele recebe ordens para trabalhar 4 horas, o resto ele contínua de prontidão. O salário normal é de R$3.000,00 e a carga horaria é de 220 por mês. Quanto Paulo vai receber um dia de trabalho?
+•	Primeiro vamos descobrir quanto é o valor da hora-trabalho do funcionário e o quanto ele vai receber pelas 4 horas trabalhadas.
+Valor por hora trabalhada: R$3.000,00/220=R$13,64
+•	Valor que Paulo recebeu pelas horas trabalhadas: R$13,64X4=R$54,56
+•	Agora vamos descobrir o horário de prontidão que Paulo vai receber, extraindo 2/3 do valor da hora trabalhada:
+2/3 de R$13,64=R$9.10
+•	Agora vamos multiplicar esse valor pelas 8 horas restantes que Paulo ficou de prontidão:
+Valor pela prontidão=R$9,10X8=R$72,80
+Quanto Paulo recebeu por esse dia de trabalho?
+R$54,56+R$72,80=R$127,36
+SOBREAVISO
+O funcionário fica disponível a um possível chamado de trabalho mesmo em seu período de descanso. Diferente da prontidão, no sobreaviso o funcionário não fica nas dependências da empresa. O funcionário deve ficar em alerta para um possível chamado. O regime de sobreaviso é previsto no artigo 244 da CLT, como tema direcionado aos trabalhadores ferroviários.
+32
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Art. 244. As estradas de ferro poderão ter empregados extranumerários, de sobreaviso e de prontidão, para executarem serviços imprevistos ou para substituições de outros empregados que faltem à escala organizada.
+A súmula 428 do Tribunal Superior do Trabalho também prevê abordagem específica do sobreaviso. De acordo com o item II da sumula 428, TST.
+‘’súmula nº 428 do TST - II – Considera-se em sobreaviso o empregado que, à distância e submetido a controle patronal por instrumentos telemáticos ou informatizados, permanecer em regime de plantão ou equivalente, aguardando a qualquer momento o chamado para o serviço durante o período de descanso”.
+O empregado ficará de sobreaviso por no máximo 24 horas. Diferentemente da prontidão, a remuneração do sobreaviso é 1/3 do salário hora-normal. A forma de cálculo dessa escala é semelhante ao de prontidão:
+•	O primeiro passo é descobrir o valor da hora do funcionário e depois dividir por 220
+•	Para descobrir o valor de sobreaviso deve-se extrair 2/3 do resultado do primeiro tópico
+•	Por último multiplicar pela hora de prontidão
+Quando acaba o regime de sobreaviso? Acaba quando o funcionário é chamado para trabalhar, a partir daí começa a contar sua jornada de trabalho.
+INTERVALO INTRAJORNADA
+O intervalo intrajornada é o descanso que o funcionário tem direito durante o exercício da jornada de trabalho. Cita-se como exemplo o horário para o lanche, almoço ou jantar. De acordo com o art. 71, da CLT os trabalhadores que trabalham entre 4 e 6 horas tem o direto de até quinze minutos de descanso.
+Art. 71 - Em qualquer trabalho contínuo, cuja duração exceda de 6 (seis) horas, é obrigatória a concessão de um intervalo para repouso ou alimentação, o qual será, no mínimo, de 1 (uma) hora e, salvo acordo escrito ou contrato coletivo em contrário, não poderá exceder de 2 (duas) horas.
+33
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+O intervalo intrajornada é o descanso dado a quem tem mais de 4 horas de jornada trabalhadas diariamente, na forma a seguir apresentada:
+•	Até 4 horas, não tem direito de descanso.
+•	4 horas até 5 h, tem direito a 15 minutos de descanso.
+•	5 horas mais hora extra, tem direito à 1 hora de descanso.
+•	Mais de 6 horas, tem direito de um até 2 horas de descanso.
+Obs.: o descanso intrajornada não é considerado jornada de trabalho, então não é contabilizada no pagamento do funcionário.
+A reforma trabalhista introduziu importantes mudanças no intervalo intrajornada. A principal é que a reforma trabalhista trouxe a possiblidade de redução desse descanso. Anteriormente, havia necessidade de intervenção do ministério do trabalho, o que agora é passível de ajuste direto entre as partes. Destaca-se o caráter indenizatório de tal verba, caso não seja adequadamente fruída.
+Exemplo: Lucas, em sua jornada, apenas descansou 30 minutos dos 90 que lhe seriam garantidos. Logo, ele tem direito a receber por 1 hora adicional de trabalho mais o acréscimo de no mínimo 50% de hora extra
+INTERVALO INTERJORNADA
+O intervalo interjornada corresponde ao lapso entre o término de uma jornada e o início de outra. De acordo om o art. 66, da CLT o funcionário tem direito de descanso de 11 horas entre uma jornada e outra, existindo a possibilidade de suspensão em caso de hora extraordinária. De acordo com o inciso 4°, art. 71, da CLT:
+4° – Quando o intervalo para repouso e alimentação, previsto neste artigo, não for concedido pelo empregador, este ficará obrigado a remunerar o período correspondente com um acréscimo de no mínimo 50% (cinquenta por cento) sobre o valor da remuneração da hora normal de trabalho. (Incluído pela Lei nº 8.923, de 27.7.1994).
+34
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Ou seja, o intervalo pode ser diminuído em caso de realização de hora extra, onde o empregador deve acrescentar 50% no valor da hora normal do funcionário.
+Como exemplo: Fernanda terminou seu expediente às 22 horas e no dia seguinte começou sua jornada às 8 horas, ou seja, só teve 10 horas de descanso. Uma hora do período de descanso foi suprimida. Fernanda recebe R$15,00 pela hora trabalhada. O cálculo será: R$15,00 + 50%. Nesse caso, Fernanda vai receber R$22,50 por esse período suprimido.
+DESCANSO SEMANAL REMUNERADO
+Consiste no benefício de descanso uma vez na semana, sem que seja realizado trabalho, mas com o recebimento do salário correspondente . O descanso varia de acordo com a jornada de trabalho do funcionário e o ajuste por ocasião da contratação. Normalmente, o descanso acontece a cada 7 dias trabalhados, a folga ocorre preferencialmente domingo. De acordo com a lei 605/49:
+‘’todo empregado tem direito ao repouso semanal remunerado de vinte e quatro horas consecutivas, preferentemente aos domingos e, nos limites das exigências técnicas das empresas, nos feriados civis e religiosos, de acordo com a tradição local’’
+Mas, pode existir um acordo entre o empregado e empregador para a folga ser em outro dia, seja para compensar uma falta ou a necessidade do empregador para que o funcionário trabalhe no dia do descanso.
+#IMPORTANTE! Deve ser respeitada a regra dos 7 dias. Assim, o intervalo da próxima folga não pode exceder sete dias. Caso o empregado não conceda a folga em até 7 dias e passar para a próxima semana, o funcionário tem direito a receber indenização em dobro.
+Existem algumas jornadas que o prazo de 7 dias não é aplicável, como é o caso do regime de 24 horas seguidas. O descanso deve ser proporcional ao tempo trabalhado e deve acontecer no dia
+35
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+seguinte da jornada. Com a reforma trabalhista, algumas escalas passaram a não ter direito a remuneração do descanso semanal, como exemplo a escala 12x36, que perdeu esse direito. Existem alguns fatores que fazem o empregado perder o direito ao descanso semanal remunerado, como:
+•	Quando o trabalhador não cumpre seu horário
+•	O trabalhador não é pontual
+•	Quando falta sem justificativas
+Como é calculado o descanso semanal remunerado?
+Para quem recebe mensalmente a remuneração estará inclusa na folha de pagamento mensal. Quando o funcionário é horista ele recebe o equivalente à sua jornada. Para calcular é necessário somar as horas trabalhadas no mês, dividir pelos dias úteis incluindo o sábado, depois multiplicar o resultado pela quantidade de feriados e domingos:
+Exemplo: Vitor recebe R$25,00 por hora e trabalhou 200 horas na semana em um mês com 22 dias e 4 domingos, quanto ele vai receber de remuneração?
+200/22x4=36,36 x R$25,00=R$909,00
+Então, Vitor vai receber R$909,00 de remuneração
+FLEXIBILIZAÇÃO DE ACORDO (REDUÇÃO DE CH)
+Art. 58 - A duração normal do trabalho, para os empregados em qualquer atividade privada, não excederá de 8 (oito) horas diárias, desde que não seja fixado expressamente outro limite.
+Além disso, as leis trabalhistas estabelecem que as jornadas de trabalho podem incluir até duas horas extras por dia, sendo que essas horas extras devem ser remuneradas com, pelo menos,
+36
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+50% a mais do que o valor das horas normais. Considerando a duração da jornada padrão, existe uma convenção no mercado de trabalho que determina horários específicos para o início e término das atividades dos trabalhadores, respeitando também o período destinado ao almoço.
+Em termos gerais, o horário comercial é estabelecido das 8h às 17h ou das 9h às 18h. Eventuais variações podem ocorrer caso a empresa adote uma jornada de trabalho que inclua o sábado ou envolva turnos noturnos. Independentemente disso, é comum que um horário fixo seja estipulado por meio de contrato e que todos os funcionários da empresa o sigam. Por outro lado, a proposta do horário flexível é justamente modificar essa abordagem. A intenção não é necessariamente reduzir o tempo de trabalho do funcionário, mas oferecer mais autonomia para que ele decida quando iniciar e encerrar sua jornada. Em outras palavras, o horário flexível representa um modelo de gestão do tempo que possibilita aos funcionários determinarem os horários de entrada e saída de suas jornadas laborais.
+Dessa forma, em acordo mútuo com o empregador, o horário flexível permite que o colaborador inicie suas atividades durante a tarde e as estenda até a noite. Vale destacar que, mesmo nesse contexto, a obrigatoriedade de cumprir o horário de almoço ou intervalo intrajornada ainda é válida.
+INDENIZAÇÃO
+A indenização pode ocorrer em diversos contextos, como demissões sem justa causa, rescisões indiretas, acordos entre empregado e empregador, entre outros. Abaixo estão alguns tópicos relacionados à indenização na CLT, juntamente com breves explicações:
+•	Rescisão do Contrato de Trabalho:
+Aviso Prévio: Se o empregador rescindir o contrato de trabalho sem justa causa, ele deve conceder um aviso prévio ao empregado ou pagar uma indenização correspondente.
+Multa do FGTS (Fundo de Garantia do Tempo de Serviço): Em caso de demissão sem justa causa, o empregador é obrigado a depositar uma multa de 40% sobre o saldo do FGTS do empregado.
+37
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Seguro-Desemprego: Em algumas situações de rescisão, o empregado pode ter direito ao benefício do seguro-desemprego.
+•	Demissão sem Justa Causa - Quando um empregado é demitido sem justificativa legal, ele tem direito a receber uma série de verbas rescisórias, que podem incluir aviso prévio, saldo de salário, férias proporcionais, 13º salário proporcional, e, em alguns casos, uma indenização adicional.
+•	Rescisão Indireta - A rescisão indireta ocorre quando o empregado pede demissão devido a situações graves de descumprimento por parte do empregador, equiparando-se a uma demissão sem justa causa. Nesses casos, o empregado pode ter direito a verbas rescisórias e indenizações.
+•	Acordo para Demissão - Em alguns casos, empregado e empregador podem optar por um acordo mútuo para encerrar o contrato de trabalho. Nesse cenário, há regras específicas para o pagamento de verbas rescisórias e eventual indenização, como a multa do FGTS (Fundo de Garantia do Tempo de Serviço).
+•	Assédio Moral ou Sexual - Caso o empregado seja vítima de assédio moral ou sexual no ambiente de trabalho, ele pode buscar reparação através de ações judiciais, visando indenizações por danos morais e, em alguns casos, materiais.
+•	Estabilidade Provisória - Alguns empregados têm direito à estabilidade provisória, como gestantes, membros de CIPA (Comissão Interna de Prevenção de Acidentes), dirigentes sindicais, entre outros. A demissão sem justa causa durante esse período pode gerar indenizações e reintegração ao emprego.
+•	Dano Existencial ou Dano à Imagem - Em situações específicas, o empregado pode pleitear indenização por dano existencial, relacionado a prejuízos causados à sua qualidade de vida, ou por danos à imagem, quando a reputação profissional é prejudicada.
+38
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	Acidentes de Trabalho - Em caso de acidente de trabalho, o empregador pode ser obrigado a pagar indenizações por danos materiais, morais ou estéticos ao trabalhador acidentado.
+•	Horas Extras - O não pagamento de horas extras devidas pode gerar indenizações, principalmente se configurado que o empregado foi submetido a jornadas excessivas sem a devida contrapartida financeira.
+As condições específicas para cada tipo de indenização podem variar, e a orientação jurídica especializada é fundamental para avaliar cada situação de forma adequada.
+Em muitos casos, para buscar indenizações, o empregado pode precisar acionar a Justiça do Trabalho e apresentar provas que sustentem suas reivindicações. O entendimento específico de cada situação pode variar, e é aconselhável buscar orientação jurídica para avaliar a viabilidade das demandas. Além disso, as leis trabalhistas podem sofrer alterações ao longo do tempo, e é fundamental consultar fontes atualizadas.
+Situação Prática: Não Pagamento de Horas Extras
+Maria é uma funcionária de uma empresa de varejo. Recentemente, a empresa implementou um novo sistema de controle de ponto, mas muitos funcionários, incluindo Maria, começaram a perceber que as horas extras trabalhadas não estavam sendo devidamente registradas e, consequentemente, não estavam sendo pagas corretamente.
+Maria frequentemente fica depois do horário para concluir suas tarefas e, embora tenha feito as horas extras devidamente, seu salário não reflete o trabalho adicional. Preocupada com a situação, ela decide conversar com o departamento de recursos humanos, mas não obtém uma solução adequada para o problema.
+39
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+■	Maria trabalha em média 44 horas semanais, mas o registro de ponto mostra apenas 40 horas.
+■	As horas extras não estão sendo pagas ou compensadas adequadamente pela empresa.
+■	Maria tentou resolver a situação internamente, mas não obteve sucesso.
+A CLT estabelece que as horas extras devem ser remuneradas com um acréscimo mínimo de 50% sobre o valor da hora normal.
+Possível Reivindicação de Indenização: Maria pode buscar uma indenização referente às horas extras não pagas, além do devido acréscimo. Isso poderia incluir não apenas o pagamento retroativo das horas extras, mas também uma indenização por danos morais, caso a situação tenha gerado constrangimentos ou problemas financeiros significativos para ela.
+FISCALIZAÇÃO E CONTROLE
+A fiscalização e controle na Consolidação das Leis do Trabalho (CLT) referem-se às práticas destinadas a assegurar o cumprimento das normas trabalhistas por parte das empresas. Isso inclui a verificação do respeito aos direitos dos trabalhadores, como salário-mínimo, jornada de trabalho e condições adequadas. Os órgãos responsáveis pela fiscalização, como o Ministério do Trabalho e Emprego, têm o papel de aplicar penalidades em caso de descumprimento, garantindo a proteção dos direitos dos empregados.
+Quando se trata de empresas com mais de 20 funcionários, a fiscalização e controle ganham uma dimensão adicional. Nestes casos, as empresas são obrigadas a manter registros mais detalhados, como o livro de registro de empregados e o controle de ponto. Além disso, estão sujeitas a fiscalizações periódicas mais intensivas para garantir a conformidade com as leis trabalhistas. A legislação também exige a constituição de uma Comissão Interna de Prevenção de Acidentes (CIPA) em empresas com número de empregados acima desse limiar, contribuindo para a promoção de ambientes seguros e saudáveis de trabalho. O não cumprimento dessas obrigações pode resultar em penalidades mais severas para as empresas.
+40
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 3
+ALTERAÇÃO DO CONTRATO DE TRABALHO
+Jean Cláudio da Costa Santos
+Joel de Carvalho Fontenele
+INTRODUÇÃO
+A alteração vem do latim Altério, de alter. Significa mudar, modificar ou transformar. A mudança ocorre não no contrato de trabalho, mas nos seus termos e condições. Como qualquer outro contrato civil, os contratos de trabalho eram regidos pelo pacta sunt servanda (serviço a quem consentisse), e segundo o direito romano, os acordos eram sagrados, ou seja, não podiam ser quebrados.
+Um contrato de trabalho é um acordo legal entre um empregador e um funcionário que estabelece os termos e condições do emprego. Esse documento define as responsabilidades, deveres, direitos e obrigações tanto do empregador quanto do empregado. Um contrato de trabalho pode ser escrito ou verbal, embora seja geralmente aconselhável ter um contrato escrito para evitar futuras complicações.
+O contrato de trabalho é como uma balança, com o empresário de um lado e o empregador do outro. A legislação trabalhista iguala as partes e as torna iguais. Junto aos direitos trabalhistas surge a obediência e a possibilidade de resistir a ordens ilegais, excessivas ou abusivas impostas pelo contratante.
+Os empresários já têm a prerrogativa de conduzir um conjunto de manifestações de vontades e/ou poderes autorizados pelo ordenamento jurídico, permitindo uma direção adequada das atividades dos empregados.
+TIPOS DE ALTERAÇÃO DO CONTRATO DE TRABALHO
+As alterações no contrato de trabalho podem ser por vários motivos e de várias formas. Alguns tipos comuns de alterações no contrato de trabalho são:
+a. Alteração salarial: A alteração salarial no contrato de trabalho ocorre quando há mudanças na remuneração do empregado. Isso pode envolver diferentes situações, como:
+41
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+i.	Aumento salarial: Inclui o aumento do salário do funcionário. Isso pode acontecer por diversos motivos, como reconhecimento de desempenho excepcional , promoções, aumento do custo de vida , etc. Geralmente é necessário que quaisquer acréscimos sejam registrados por escrito para evitar futuros mal-entendidos.
+ii.	Cortes salariais: Os cortes salariais ocorrem quando a remuneração de um funcionário é reduzida. Contudo, vale a pena notar que em muitas jurisdições pode ser ilegal reduzir o salário sem o consentimento do trabalhador. Existem regras específicas que devem ser seguidas, podendo em alguns casos a redução ser temporária e justificada com base na situação econômica ou financeira da empresa.
+iii.	Reajuste Salarial: Refere-se ao reajuste periódico do salário para compensar a inflação ou mudanças nas condições econômicas. Em alguns contratos coletivos, os ajustes salariais podem ser negociados entre os representantes dos trabalhadores (sindicatos) e o empregador.
+a.	Alteração de função: A alteração de função no contrato de trabalho ocorre quando há uma modificação nas responsabilidades e tarefas que um empregado desempenha em seu cargo. Essa mudança pode envolver diferentes aspectos, como o nível de complexidade das atividades, a supervisão de outros funcionários, a área de atuação, entre outros. Essa pode ocorrer por meio de promoção, transferência de setor, rebaixamento e mudanças nas responsabilidades.
+b.	Alteração de jornada de trabalho: A alteração de jornada de trabalho no contrato ocorre quando há mudanças nas horas e dias em que um empregado é obrigado a trabalhar. Essas alterações podem ser temporárias ou permanentes, e é fundamental que sejam realizadas de acordo com as normas e regulamentações trabalhistas locais.
+c.	Alteração de local de trabalho: A alteração de local de trabalho no contrato de trabalho ocorre quando há mudanças no local onde o empregado realiza suas atividades. Essas mudanças podem variar em escala, desde pequenas alterações até mudanças significativas.
+d.	Alteração de horário: A alteração de horário no contrato de trabalho refere-se a mudanças nos horários de início e término da jornada de trabalho do empregado. Essas alterações podem ser feitas por diversas razões, como ajustes operacionais, necessidades da empresa, reorganização interna ou para acomodar as preferências do empregado.
+42
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+e.	Alteração contratual por acordo entre as partes : A alteração contratual por acordo entre as partes ocorre quando empregador e empregado concordam em modificar algum aspecto específico do contrato de trabalho. Essa modificação pode abranger vários elementos, como salário, funções, jornada de trabalho, benefícios, entre outros. É importante que qualquer alteração seja feita de maneira transparente e documentada para evitar possíveis conflitos no futuro.
+f.	Alteração por necessidade da empresa : A alteração por necessidade da empresa ocorre quando há mudanças nas condições de trabalho do empregado motivadas por exigências operacionais, financeiras ou estratégicas da empresa. Essas mudanças podem envolver diversos aspectos do contrato de trabalho, como salário, funções, jornada de trabalho, local de trabalho, entre outros.
+g.	Alteração por determinação legal: A alteração por determinação legal ocorre quando mudanças nas condições de trabalho de um empregado são impostas por novas leis, regulamentações ou normativas governamentais. Essas mudanças podem afetar diversos aspectos do contrato de trabalho, incluindo salário, jornada de trabalho, benefícios, entre outros.
+h.	Alteração por justa causa: A justa causa refere-se à rescisão do contrato de trabalho por uma das partes, seja o empregador ou o empregado, devido a uma violação grave das obrigações contratuais por parte da outra parte. A alteração por justa causa, portanto, não é uma modificação consensual, mas sim uma reação a um comportamento grave que justifica a rescisão imediata do contrato.
+Alguns pontos importantes relacionados à alteração por justa causa são:
+i.	Gravidade do Motivo: A justa causa requer um motivo grave, geralmente relacionado a uma conduta incorreta ou violação séria das obrigações contratuais. Exemplos podem incluir roubo, violência no local de trabalho, falsificação de documentos, entre outros.
+ii	. Procedimentos Adequados: Mesmo em casos de justa causa, é essencial que o empregador siga os procedimentos adequados e respeite os direitos do empregado. Isso pode envolver a realização de uma investigação interna, garantindo o direito à defesa e cumprindo as normas legais locais.
+ii	i. Notificação Formal: O empregador geralmente precisa notificar formalmente o empregado sobre a justa causa, explicando claramente os motivos que levaram à decisão de rescisão. Essa notificação pode ser feita por escrito e é aconselhável ser clara e específica.
+43
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+iv	. Possibilidade de Contestação: O empregado tem o direito de contestar a justa causa se acreditar que a decisão é injustificada. Em alguns casos, isso pode levar a disputas legais e a necessidade de apresentação de provas para sustentar a decisão do empregador.
+v.	Impacto nas Condições Contratuais : Em casos de justa causa, a rescisão ocorre imediatamente e pode ter implicações nas condições contratuais, como o direito a aviso prévio, pagamento de férias proporcionais e outros benefícios.
+vi	. Respeito às Leis Trabalhistas: É crucial que o empregador esteja em conformidade com as leis trabalhistas locais ao aplicar a justa causa. Normas específicas variam entre países e jurisdições.
+vi	i. Documentação Adequada: O empregador deve manter uma documentação adequada que comprove os motivos para a justa causa, incluindo evidências de má conduta, violações contratuais ou outras razões graves.
+i.	Alteração por pedido do empregado : A alteração por pedido do empregado ocorre quando o próprio trabalhador solicita uma mudança nas condições de trabalho ou no contrato de emprego. Essas alterações podem ser diversas e variar de acordo com as necessidades e preferências do empregado.
+Os contratos de trabalho variam de acordo com as leis locais, a natureza do trabalho e as políticas específicas da empresa. É importante que ambas as partes entendam e concordem com os termos do contrato antes de assiná-lo. A conscientização das obrigações e direitos previstos na legislação trabalhista brasileira é fundamental para garantir um ambiente de trabalho saudável e justo. Tanto empregadores quanto empregados devem estar cientes de seus direitos e responsabilidades para evitar conflitos, assegurar condições de trabalho adequadas e promover relações de trabalho equilibradas.
+44
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 4
+SALÁRIO E REMUNERAÇÃO
+Ana Clara Rodrigues Oliveira
+CONCEITOS INICIAIS
+O salário-mínimo, segundo o Art. 76 da Consolidação das Leis do Trabalho (CLT), é conceituado como "a contraprestação mínima devida e paga diretamente pelo empregador a todo trabalhador, inclusive ao trabalhador rural, sem distinção de sexo, por dia normal de serviço, e capaz de satisfazer, em determinada época e região do País, as suas necessidades normais de alimentação, habitação, vestuário, higiene e transporte.” De maneira mais clara, salário é o pagamento em dinheiro concedido pela empresa em reconhecimento ao desempenho do profissional, sendo a contraprestação pelo trabalho dedicado diariamente. Dentre as parcelas salariais, merecem destaque o salário-base, abonos, adicionais, gratificações, 13° salário e as comissões. Esses elementos serão abordados de forma sequencial neste capítulo.
+Por outro lado, é importante ressaltar que, de acordo com a CLT, a remuneração é uma categoria mais abrangente que inclui não apenas o salário-base, mas também as gorjetas: “Art. 457: Compreendem-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago diretamente pelo empregador, como contraprestação do serviço, as gorjetas que receber.”
+De forma simplificada, é possível perceber que a diferença entre a remuneração e o salário está no salário ser componente específico da remuneração total. Podemos dizer que remuneração é o termo geral e salário é uma parte específica do todo. É como se "salário" fosse um tipo específico de "remuneração". Para ficar ainda mais claro, observe o esquema a seguir:
+Remuneração (GÊNERO) = Salário (ESPÉCIE) + GORJETAS
+Remuneração (gênero)	Salário (espécie)
+Pagamento direto + Pagamento indireto (feito por terceiros)	Apenas pagamento direto (feito pelo empregador) .
+45
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Podemos concluir, dessa forma, que a palavra remuneração é gênero e o salário é a espécie desse gênero. Em resumo, todo salário é uma forma de remuneração, mas nem toda remuneração se limita apenas ao salário-base.
+Modalidades de Salário
+As modalidades salariais englobam diferentes conceitos relacionados à remuneração, essa distinção é realizada para proporcionar uma compreensão mais clara das diferentes perspectivas no âmbito do Direito do Trabalho. Entre as modalidades salariais estão em destaque: Salário Profissional, Salário Normativo, Salário Complessivo e o Salário Utilidade ou Salário In Natura.
+Salário Profissional
+Essa modalidade de salário refere-se a um piso salarial determinado por lei para uma categoria profissional específica. Vale ressaltar que mesmo esse termo não sendo empregado de forma direta na CLT, esta pode estabelecer pisos salariais para algumas categorias profissionais por meio de leis específicas ou convenções coletivas.
+Salário Normativo
+O conceito “Salário Normativo” também não é explicitado diretamente na CLT. No entanto, essa expressão está relacionada a sentenças normativas externas, que são regularmente abordadas em convenções coletivas de trabalho. Nessas convenções coletivas, condições salariais são acordadas entre os representantes se aplicando a todos os trabalhadores de uma região ou categoria específica.
+Salário Complessivo
+O “Salário Complessivo” é a conduta que agrupa diferentes elementos da remuneração em uma quantia única, não discriminando as verbas de cada uma delas. Essa prática é considerada proibida, mesmo que essa proibição não esteja diretamente expressa na legislação trabalhista. Isso se dá devido a fundamentação que visa a transparência da composição salarial.
+46
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Salário Utilidade ou Salário In Natura
+O salário utilidade ou “in natura” é aquele fornecido ao empregado pelo trabalho desempenhado e não para que o trabalho seja desempenhado. Refere-se ao pagamento que o empregador concede ao empregado em forma de utilidades, bens ou serviços. É expresso no art. 458 da CLT:
+Art. 458 - Além do pagamento em dinheiro, compreende-se no salário, para todos os efeitos legais, a alimentação, habitação, vestuário ou outras prestações "in natura" que a empresa, por força do contrato ou do costume, fornecer habitualmente ao empregado. Em caso algum será permitido o pagamento com bebidas alcoólicas ou drogas nocivas.
+Para o salário “in natura” ser caracterizado ele precisa ser habitual e possuir natureza contra prestativa. Além disso, itens como vestuários, equipamentos e outros acessórios fornecidos ao empregado e para a utilização no local de trabalho não serão considerados como salário. Da mesma forma, o transporte destinado ao deslocamento até o trabalho; assistência médica, hospitalar e odontológica, prestada diretamente ou mediante seguro-saúde; seguros de vida e de acidentes pessoais; previdência privada e o valor correspondente ao vale cultura também não entram na referida modalidade de salário.
+Tendo em vista o conceito de salário “in natura”, é empregado na Súmula 367, I do TST que: A habitação, a energia elétrica e o veículo quando forem disponibilizados ao empregado por serem indispensáveis e essenciais para a realização do trabalho não são caracterizados como salário, ainda que o veículo seja utilizado pelo empregado em atividades particulares.
+Já no que se refere à habitação e à alimentação fornecidas como salário-utilidade, conforme a CLT, em seu § 3º do Artigo n° 458, a norma deixa explícito que devem atender aos fins a que são destinados. Além disso, há uma limitação que impede que o valor para a habitação exceda a 25% (vinte e cinco por cento) e para alimentação a 20% (vinte por cento) do salário-contratual.
+47
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+GORJJETAS
+Características	Fundamentação Legal
+Não são integradas à base de cálculo para as parcelas de aviso-prévio, adicional noturno, horas extras e repouso semanal remunerado -DSR.	Súmula nº 354 do TST
+Não integram a composição do salário-mínimo.	Constituição Federal
+Integram a base de cálculo de parcelas baseadas na remuneração, como FGTS, férias e 13º salário.	Art. 15 - Lei 8.036/1990 Art 142 - CLT Art 1° - Lei 4.090/1962
+Para dar início a esse conceito, é importante que a sua fundamentação legal seja entendida, leia a seguir: § 3º Considera-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também o valor cobrado pela empresa, como serviço ou adicional, a qualquer título, e destinado à distribuição aos empregados.
+De maneira simplificada, gorjeta é o pagamento realizado espontaneamente por terceiros para o empregado, podendo esse terceiro ser o cliente ou o próprio empregador quando concede um valor pelo serviço ou como adicional para distribuição aos empregados. Essa parcela tem características individuais, definidas e fundamentadas legalmente. Para ficar mais claro, observe o quadro a seguir:
+Gueltas
+Guelta é uma palavra de origem alemã derivada de Geld, que significa dinheiro. Esse termo é utilizado para designar parcelas ganhas de fornecedores pelos empregados, visando estimular vendas de uma determinada companhia ou marca. Essas parcelas são reconhecidas como incentivos comerciais, pois correspondem a prêmios concedidos aos funcionários que estimulam e impulsionam as vendas dos produtos do fabricante. Portanto, podem ser consideradas como uma “gorjeta”, tendo em vista que o fornecedor é um terceiro e fornece esse valor de forma espontânea.
+48
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Stock Option
+O termo "stock option" refere-se a um benefício oferecido pelas empresas que permite que os empregados adquiram ações da companhia por um valor menor e mais vantajoso. O propósito dessa prática é fazer com que o empregado possa alinhar seus interesses com o crescimento da empresa, na maioria dos casos. Nesse caso, se o empregado optar por comprar uma das opções de ações concedidas pela empresa, essa parcela não terá natureza salarial.
+Complexo Salarial
+Como já foi visto nos tópicos anteriores, a remuneração possui componentes com especificidades entre si. O complexo salarial compõe a parcela de salário base e as demais parcelas, como abonos, adicionais, gratificações, 13° salário etc.
+49
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 5
+AVISO PRÉVIO E ENCERRAMENTO DO
+CONTRATO DE TRABALHO
+Ana Rebeca Veras Brito Fontenele
+José Roberto Sales Aragão
+AVISO PRÉVIO
+Aviso prévio é a comunicação dada por uma das partes do contrato de trabalho à outra parte, transmitindo a intenção de rescindir o contrato, sem justa causa, ou seja, a parte que desejar romper o contrato deverá pré-avisar a outra, conforme disposto em lei.
+É o direito do contratante de ser avisado, com a antecedência de, no mínimo, 30 dias, sobre a intenção da outra parte de romper o contrato de trabalho. O aviso prévio é previsto pelo art. 7º, XXI, da Constituição Federal como um direito dos trabalhadores urbanos e rurais, sendo estendido aos trabalhadores avulsos (art. 7º, XXXIV, CF) e aos domésticos (art. 7º, parágrafo único, CF).Está previsto:
+/ Legislação: CLT, arts. 391-A, 481, 484-A, 487-491; Lei n° 5.889/1973, art. 15; Lei n° 12.506/2011; Lei Complementar nº 150/2015, arts. 23, 24.
+/ Jurisprudência: Súm. 10, 14, 44, 73, 163, 182, 230, 276, 305, 348, 354, 371, 380, 441, TST;
+OJ SDI-1 14, 82, 83, 367, TST.
+CONCEITO E CARACTERÍSTICAS
+Segundo art. 487 da CLT, o aviso prévio pode ser uma obrigação patronal ou uma obrigação do empregado, a depender de quem tomou a iniciativa de rescindir, sem justo motivo, o contrato. Logo, na dispensa sem justa causa, o aviso prévio é um dever do empregador e um direito do empregado. Já no pedido de demissão, o aviso prévio é um dever do empregado e um direito do empregador. Assim, a principal finalidade do aviso prévio é impedir que uma das partes seja surpreendida com a ruptura do contrato de trabalho.
+50
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Refere-se a um instituto típico dos contratos por prazo indeterminado. Ainda, ocorrendo a rescisão do contrato de trabalho, sem justa causa, por iniciativa do empregador, poderá ele optar pela concessão do aviso prévio trabalhado ou indenizado, da mesma forma, quando o empregado pede demissão. Na ocorrência do aviso prévio, o empregado tem direito a uma redução de 2 horas na jornada diária, conforme o art. 488, da CLT, sendo ilegal substituí-las por dinheiro, ainda que mediante o pagamento de horas extras, conforme a Súmula 230 do TST.
+• Súmula 230, TST: “É ilegal substituir o período que se reduz da jornada de trabalho, no aviso prévio, pelo pagamento das horas correspondentes”.
+Caso:
+> A Empresa Sempre Lar, tem Lucas como funcionário contratado com recebimento por mês. No entanto, a empresa passou por uma crise financeira e com onze meses de serviço, concedeu aviso prévio de 30 dias à Lucas, optando ao funcionário por reduzir o período do aviso em sete dias corridos. Isso está correto? Como Lucas deve lidar com essa situação?
+Resposta: Em relação à Consolidação das Leis do Trabalho (CLT) vigente, a Empresa Sempre Lar consentiu as concessões de aviso prévio corretamente ao funcionário Lucas.
+Justificativa: Art. 487 - Não havendo prazo estipulado, a parte que, sem justo motivo, quiser rescindir o contrato deverá avisar a outra da sua resolução com a antecedência mínima de:
+II - trinta dias aos que perceberem por quinzena ou mês, ou que tenham mais de 12 (doze) meses de serviço na empresa. (Redação dada pela Lei nº 1.530, de 26.12.1951)
+Art. 488 - O horário normal de trabalho do empregado, durante o prazo do aviso, e se a rescisão tiver sido promovida pelo empregador, será reduzido de 2 (duas) horas diárias, sem prejuízo do salário integral.
+Parágrafo único - É facultado ao empregado trabalhar sem a redução das 2 (duas) horas diárias previstas neste artigo, caso em que poderá faltar ao serviço, sem prejuízo do salário integral, por 1 (um) dia, na hipótese do inciso l, e por 7 (sete) dias corridos, na hipótese do inciso lI do art. 487 desta Consolidação.
+51
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CABIMENTO
+Como regra, o aviso-prévio cabe nos contratos por prazo indeterminado (art. 487 da CLT). A Súmula 44 do TST esclarece que “a cessação da atividade da empresa, com o pagamento da indenização, simples ou em dobro, não exclui, por si só, o direito do empregado ao aviso-prévio”. Se a empresa vier a falir, o aviso-prévio será devido, pois o risco do empreendimento é do empregador (art. 2º da CLT) e não pode ser transferido ao empregado, não se enquadrando tal hipótese como justo motivo para a rescisão do contrato de trabalho. Ocorrendo força maior, pode-se entender que o aviso-prévio é indevido, porque houve justo motivo para o término do contrato de trabalho (art. 487 da CLT).
+De forma esquemática, o aviso-prévio tem cabimento nas seguintes situações:
+•	rescisão sem justa causa do contrato por prazo indeterminado, seja por iniciativa do empregador ou do empregado (naturalmente, o direito ao aviso-prévio será, no caso, da parte avisada);
+•	rescisão por comum acordo, também denominada distrato (art. 484-A, I, CLT)5;
+•	rescisão indireta do contrato de trabalho (conhecida como justa causa do empregador);
+•	rescisão antecipada do contrato a termo que contenha cláusula assecuratória do direito recíproco de rescisão antecipada (art. 481, CLT);
+•rescisão por culpa recíproca, hipótese em que é devido pela metade.
+Caso:
+>	Juliana Alves foi contratada pela empresa Linda Acessórios Ltda., por experiência de 90 dias, com a cláusula assecuratória do direito recíproco de rescisão. No entanto, após 30 dias, a empresa fez a rescisão antecipada do contrato de trabalho, com o pagamento das verbas rescisórias, sem o pagamento do aviso prévio. Nesse caso, Juliana Alves não possui tanto entendimento sobre direitos trabalhistas e procura uma advogada. Quais esclarecimentos a advogada deve oferecer a Juliana?
+Resposta: Com base ao cabimento a aviso prévio, Juliana, com base nos esclarecimentos de sua advogada, deve se atentar à cláusula assecuratória de direito recíproco que pode constar nos contratos de trabalho por prazo determinado, que permite a rescisão antecipada do contrato por qualquer das partes, com o pagamento das mesmas verbas rescisórias que se aplicam aos
+52
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+contratos por prazo indeterminado. Essa cláusula é prevista no artigo 481 da CLT e implica no cumprimento do aviso prévio de 30 dias.
+CLT, art. 481. Aos contratos por prazo determinado, que contiverem cláusula assecuratória do direito recíproco de rescisão antes de expirado o termo ajustado, aplicam-se, caso seja exercido tal direito por qualquer das partes, os princípios que regem a rescisão dos contratos por prazo indeterminado.
+Logo, Juliana Alves, tem direito ao aviso prévio.
+CONTAGEM DO PRAZO E FORMA
+A regulamentação do aviso prévio está contida nos arts. 487 a 491 da CLT. A Lei n. 12.506/2011 regulou a proporcionalidade da duração do aviso prévio em relação ao tempo de serviço do empregado. Regulamentada pela Lei n. 12.506/2011, os empregados podem exigir o aviso prévio com duração que irá variar conforme o tempo de serviço que tenham em relação aos seus empregadores, garantido sempre o prazo mínimo de 30 (trinta) dias.
+• Súmula 441, TST: “O direito ao aviso prévio proporcional ao tempo de serviço somente é assegurado nas rescisões de contrato de trabalho ocorridas a partir da publicação da Lei n. 12.506, de 13 de outubro de 2011”.
+Caso:
+> José Roberto, cozinheiro em âmbito residencial, foi contratado em 30/6/2019 e recebeu aviso-prévio indenizado de seu empregador no dia 30/8/2021. É correto afirmar que José Roberto terá direito a quantos dias de aviso-prévio?
+Resposta:
+Conforme a Lei n. 12.506/2011, José Roberto terá direito a 36 dias de aviso prévio, já que ao aviso prévio de 30 dias serão acrescidos 3 (três) dias por ano de serviço prestado na mesma empresa, até o máximo de 60 (sessenta) dias, perfazendo um total de até 90 (noventa) dias. Observe: Art. 1º O aviso prévio, de que trata o Capítulo VI do Título IV da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, será
+53
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+concedido na proporção de 30 dias aos empregados que contem até 1 (um) ano de serviço na mesma empresa.
+Parágrafo único. Ao aviso prévio previsto neste artigo serão acrescidos 3 (três) dias por ano de serviço prestado na mesma empresa, até o máximo de 60 dias, perfazendo um total de até 90 (noventa) dias.
+E na nota técnica 184/2012 do MTE:
+Nota técnica 184/2012: "O acréscimo de 3 (três) dias por ano de serviço prestado ao mesmo empregador computar-se-á a partir do momento em que a relação contratual supere um ano na mesma empresa”
+> Germana foi admitida, em 01 de janeiro de 2017, como entregadora, pelo Supermercado Nova Vida. Em razão das dificuldades financeiras decorrentes da pandemia de Covid-19, o empregador decidiu promover a dispensa da empregada em 12 de janeiro de 2021. Diante de tal quadro, é devido o aviso prévio de quantos dias?
+Resposta:
+Germana foi admitida em 01/01/2017.
+Foi dispensada em 12/01/2021.
+-	Até 1 ano: 30 dias.
+Período de 01/01/2017 a 01/01/2018.
+-	Pelos outros 3 anos: 3 dias por cada período.
++3 = Período de 01/01/2018 a 01/01/2019.
++3 = Período de 01/01/2019 a 01/01/2020.
++3 = Período de 01/01/2020 a 01/01/2021.
+-	Pelos outros 11 dias: apesar de não ter completado 1 ano inteiro, há acréscimo de 3 dias, nos termos da nota técnica 184 do MTE.
++3 = Período de 01/01/2021 a 12/01/2021.
+54
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+-	Logo: o aviso prévio é de 30+12 = 42 dias.
+No que tange à existência de culpa recíproca na rescisão do contrato de trabalho não é devido o aviso-prévio. Nesse caso, o que ocorre é que há justo motivo para rescisão do contrato de trabalho (art. 487 da CLT), que foi dado por ambas as partes, ficando prejudicado o aviso-prévio, pois o contrato de trabalho termina de imediato. Assim, o TST entende que na culpa recíproca o empregado tem direito a 50% do valor do aviso-prévio (S. 14).
+•	Dispõe o art. 487 da CLT que o aviso-prévio é devido apenas em caso de não haver justo motivo para a dispensa. Na culpa recíproca, há justo motivo recíproco para a dispensa. Logo, o aviso-prévio é indevido e não deveria ser pago à razão de 50% do seu valor.
+Caso:
+>	Francisco das Chagas trabalhou por 20 (vinte) anos na Empresa Armazém Jesus. Empregado e empregador decidiram, de comum acordo, rescindir o contrato de trabalho. Considerando a situação proposta e a legislação vigente, como ficarão os direitos trabalhistas, incluindo aviso prévio, de Francisco das Chagas?
+Resposta:
+Conforme a legislação vigente, Francisco das Chagas receberá pela metade: o aviso prévio (indenizado) e a multa sobre o saldo do FGTS; e na integralidade as demais verbas rescisórias. Porém, não poderá receber seguro-desemprego.
+-	Art. 484-A. CLT. O contrato de trabalho poderá ser extinto por acordo entre empregado e empregador, caso em que serão devidas as seguintes verbas trabalhistas:
+I - Por metade:
+a)	o aviso prévio, se indenizado; e
+b)	a indenização sobre o saldo do Fundo de Garantia do Tempo de Serviço, prevista no § 1º do art. 18 da Lei n. 8.036, de 11 de maio de 1990;
+II - NA INTEGRALIDADE, as demais verbas trabalhistas.
+§	1º A extinção do contrato prevista no caput deste artigo permite a movimentação da conta vinculada do trabalhador no Fundo de Garantia do Tempo de Serviço na forma do inciso I A do art.20 da Lei n.8.036, de 11 de maio de 1990, limitada até 80% (oitenta por cento) do valor dos depósitos.
+55
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+§	2º A extinção do contrato por acordo prevista no caput deste artigo não autoriza o ingresso no Programa de Seguro-Desemprego.
+-	Art. 7º. CF. São direitos dos trabalhadores urbanos e rurais, além de outros que visem à melhoria de sua condição social: II - seguro-desemprego, em caso de desemprego involuntário;
+Quanto à forma, a lei não estabelece a forma como o aviso-prévio deve ser concedido. Recomenda-se que o aviso-prévio sempre seja concedido por escrito, em pelo menos duas vias, ficando uma em poder do empregado e outra com o empregador, representando, assim, uma prova concreta em relação à parte que pretendeu rescindir o contrato de trabalho, cabendo à outra parte fazer prova em sentido contrário.
+IRRENUNCIABILIDADE
+O aviso prévio é irrenunciável por parte do empregado. Existe uma ressalva: “se o empregado, durante o aviso prévio trabalhado, obtiver um novo emprego, poderá renunciar ao aviso prévio” – Súmula 276 do TST e PN 24 do TST:
+•	SÚMULA 276 TST. AVISO PRÉVIO. RENÚNCIA PELO EMPREGADO. “O direito ao aviso prévio é irrenunciável pelo empregado. O pedido de dispensa de cumprimento não exime o empregador de pagar o respectivo valor, salvo comprovação de haver o prestador dos serviços obtido novo emprego.”
+•	PN 24 TST. DISPENSA DO AVISO PRÉVIO. “O empregado despedido fica dispensado do cumprimento do aviso prévio quando comprovar a obtenção de novo emprego, desonerando a empresa do pagamento dos dias não trabalhado.
+EFEITOS
+Dispõe o § 1º do art. 487 da CLT que “a falta de aviso-prévio por parte do empregador dá ao empregado o direito aos salários correspondentes ao prazo do aviso, garantida sempre a integração desse período no seu tempo de serviço”.
+56
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	O tempo de serviço irá integrar o contrato de trabalho para todos os fins, inclusive para o cálculo de mais 1/12 de 13º salário e férias em razão da sua projeção.
+•	Considera-se mês o período igual ou superior a 15 dias.
+•	O pacto laboral não termina de imediato, mas apenas após expirado o prazo do aviso-prévio, com o que há a integração do tempo de serviço no contrato de trabalho.
+•	Mesmo no aviso-prévio indenizado ocorre a sua integração no tempo de serviço do empregado, para todos os efeitos.
+REMUNERAÇÃO
+O aviso-prévio tem como base de cálculo o salário (art. 487, §§ 1º e 2º, CLT), e não a remuneração. Assim, as gorjetas porventura recebidas não integram a base de cálculo do aviso-prévio. Neste sentido, a Súmula 354 do TST:
+•	Súm. 354. Gorjetas. Natureza jurídica. Repercussões (mantida). Res. 121/2003, DJ 19, 20 e 21.11.2003.
+•	As gorjetas, cobradas pelo empregador na nota de serviço ou oferecidas espontaneamente pelos clientes, integram a remuneração do empregado, não servindo de base de cálculo para as parcelas de aviso prévio, adicional noturno, horas extras e repouso semanal remunerado.
+O salário usado para base de cálculo, inclui parcelas salariais em geral, sempre que pagas com habitualidade, por exemplo, os adicionais. Se o salário do empregado for fixo, o aviso-prévio corresponderá ao próprio salário. Entretanto, se for variável, computar-se-á a média dos últimos 12 meses, conforme art. 487, § 3º: Art. 487. (...)
+§ 3º Em se tratando de salário pago na base de tarefa, o cálculo, para os efeitos dos parágrafos anteriores, será feito de acordo com a média dos últimos 12 (doze) meses de serviço.
+Caso:
+> Alanna é empregada celetista do Restaurante Cheio de Fome, tendo ingressado em 01/01/2013, na função de cozinheira. A empresa pretende rescindir o contrato da referida empregada em 31/12/2022, indenizando o aviso prévio. O salário de Alanna corresponde a
+57
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+R$ 3.900,00. Nessa hipótese, com base na legislação federal vigente, qual deverá ser o aviso prévio de Alanna?
+Resposta:
+Data inicial: 01/01/2013
+Data da rescisão do Contrato de Trabalho: 31/12/2022
+Salário de Camélia: R$ 3.900,00.
+Valor do Aviso Prévio ?
+Total de anos trabalhados: 10 anos
+AVISO PRÉVIO (AP): 30 dias + 27 dias (AP proporcional: 3 dias para cada ano de trabalho até o máximo de 90 dias.)
+O valor do dia de trabalho acha dividindo o salário mensal por 30:
+R$3900/30 = R$ 130
+R$130 x 27 dias= R$ 3.510,00
+Total: 3.900 + 3.510 = 7.410,00 !!!!
+> Nivaldo trabalha como garçom no restaurante Rufo. Além do salário mensal, Nivaldo recebe gorjeta. Ontem, Nivaldo recebeu aviso prévio de que seu contrato de trabalho iria ser rescindido sem justa causa, sendo que o aviso prévio seria indenizado. Nesse caso, Nivaldo procurou um advogado para saber se tais gorjetas iriam ajudá-lo a receber um valor maior de aviso prévio. Como o advogado deve instruí-lo?
+Resposta: O advogado de Nivaldo deve informá-lo que as gorjetas não integrarão o aviso prévio indenizado, independentemente de serem habituais ou não. Ainda, explicar mostrando a súmula, que aborda:
+Súmula n. 354, TST: As gorjetas, cobradas pelo empregador na nota de serviço ou oferecidas espontaneamente pelos clientes, integram a remuneração do empregado, não servindo de base de cálculo para as parcelas de aviso-prévio, adicional noturno, horas extras e repouso semanal remunerado.
+58
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+ENCERRAMENTO DO CONTRATO DE TRABALHO
+A rescisão do contrato de trabalho é um processo regulamentado por leis que visam proteger os direitos tanto do empregador quanto do empregado. No contexto legal, o termo do contrato pode ocorrer por diversas razões, como demissão, pedido de demissão, termo do contrato por prazo determinado, prorrogação ou rescisão por justa causa. Cada uma dessas modalidades possui normas específicas para serem seguidas, garantindo uma abordagem justa e equitativa para ambas as partes envolvidas. É importante compreender os direitos e deveres previstos pela legislação trabalhista no momento da cláusula de encerramento do contrato, promovendo relações trabalhistas transparentes e conformes com a lei.
+CONCEITO E CARACTERÍSTICAS
+O encerramento do contrato de trabalho é a terminação do vínculo empregatício, com a extinção das obrigações para os contratantes.
+DISPENSA ARBITRÁRIA
+O ato arbitrário refere-se à demissão de um empregado sem justificativa ou motivo razoável, contrariando as normas legais ou contratuais. No contexto trabalhista, a legislação muitas vezes estabelece que a dispensa de um trabalhador deve ocorrer por justa causa, motivo esse que deve ser fundamentado e alinhado com as normas previstas nas leis trabalhistas ou no contrato de trabalho.
+A Constituição Federal, em seu Artigo 7º, Inciso I, estabelece que haverá “relação de emprego protegida contra despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá indenização compensatória, dentre outros direitos”, ou seja, esse dispositivo visa garantir a estabilidade no emprego, assegurando que os trabalhadores não sejam demitidos de forma injustificada, sem exista um motivo legítimo para tal.
+Caso:
+> Felipe, um profissional de marketing na empresa PubliVisa, foi dispensado de forma arbitrária durante uma reestruturação financeira. Apesar de seu desempenho eficiente, a empresa não forneceu justificativa clara para a dispensa e não seguiu procedimentos
+59
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+adequados. João buscou orientação jurídica, alegando dispensa injusta. Diante disso, a dispensa pode ser considerada arbitrária pelo tribunal?
+Resposta: Sim, o tribunal pode considerar a dispensa de Felipe arbitrária, devido à falta de justificativa clara e à não observância dos procedimentos adequados pela empresa durante a reestruturação financeira. Como resultado, a empresa PubliVisa é obrigada a pagar uma indenização a Felipe por não seguir os procedimentos legais ao encerrar o contrato de trabalho.
+RESCISÃO SEM JUSTA CAUSA
+A rescisão sem justa causa ocorre quando o empregado é demitido pelo empregador sem ocorra uma razão específica ou um motivo considerado legalmente justificável. Em outras palavras, é uma forma de rescisão do contrato de trabalho em que o empregador decide encerrar o vínculo empregatício sem indicar uma infração grave por parte do empregado. No Brasil, a dispensa sem justa causa é permitida, desde que o empregador cumpra as obrigações previstas na legislação.
+> QUAIS OS DIREITOS DO EMPREGADO NA RESCISÃO SEM JUSTA
+CAUSA?
+Mesmo em uma dispensa sem justa causa, o empregador deve agir em conformidade com as leis trabalhistas, garantindo que o empregado receba as devidas compensações financeiras e benefícios previstos na lei, onde ele terá direito ao aviso-prévio, 13° salário proporcional, saldo de salários, férias proporcionais e vencidas, saque do FGTS e aos seguro-desemprego.
+•	Aviso prévio: A comunicação antecipada de encerramento do contrato é denominada aviso prévio. Esse aviso pode ser cumprido com o empregado continuando a desempenhar suas funções durante o período determinado, conhecido como aviso prévio trabalhado, ou através de uma compensação financeira, denominada aviso prévio indenizado, na qual o empregador paga ao empregado o equivalente ao salário referente a esse período.
+•	13° salário proporcional: O décimo terceiro salário deve ser calculado proporcionalmente ao período trabalhado no ano da rescisão;
+•	Saldo de salários: O saldo de salário refere-se aos dias trabalhados no mês da rescisão. O empregado recebe o pagamento proporcional aos dias efetivamente trabalhados;
+60
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	Férias proporcionais e Vencidas + 1/3:O empregado tem direito a férias proporcionais ao tempo trabalhado no ano, somadas às férias vencidas (caso existam). Além disso, é devido o pagamento de um terço a mais do salário (1/3 de férias);
+•	Saque do FGTS: Durante o término do contrato de trabalho, o trabalhador tem acesso ao saldo acumulado do Fundo de Garantia do Tempo de Serviço (FGTS), o qual representa uma reserva financeira vinculada, proporcionando-lhe uma medida de segurança financeira, onde ele fica disponível para saque;
+•	Seguro-Desemprego: O seguro-desemprego é um benefício concedido em alguns casos, proporcionando uma renda temporária ao trabalhador dispensado, com o objetivo de auxiliá-lo financeiramente enquanto busca nova colocação no mercado de trabalho.
+RESCISÃO COM JUSTA CAUSA
+A rescisão do contrato de trabalho por justa causa configura-se como um ato no qual o empregador encerra de imediato o vínculo empregatício, dispensando o pagamento das verbas rescisórias convencionais. Este tipo de rescisão encontra fundamentação na ocorrência de uma falta grave por parte do empregado, conforme estipulado pela legislação trabalhista.
+Sistemas
+Existem três sistemas observados em relação à justa causa: o genérico, o taxativo e o misto.
+O sistema genérico está presente quando a legislação do país permite a demissão de um trabalhador sem detalhar as circunstâncias que caracterizam justa causa. Neste sistema em questão, pode-se afirmar que o legislador não buscou estabelecer todas as possíveis situações de justa causa, dada a impossibilidade de fazê-lo, uma vez que seria inviável prever todos os casos nos quais tal circunstância poderia ocorrer.
+No sistema taxativo, o legislador especifica minuciosamente as circunstâncias que caracterizam a justa causa. As normas coletivas, os regulamentos empresariais ou outras disposições não podem abordar situações de justa causa, as quais são exclusivamente determinadas pela legislação. Vale ressaltar que o Brasil adotou esse sistema, logo a legislação trabalhista enumera de forma abrangente as situações que caracterizam justa causa. Assim, no contexto do nosso sistema, a lei é exclusivamente a fonte formal típica para a justa causa.
+61
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+O sistema misto consiste na fusão do sistema taxativo com o genérico. Enquanto a lei especifica de forma taxativa as situações que configuram justa causa, em algumas dessas circunstâncias, o tipo legal assume uma abordagem mais ampla e genérica, possibilitando a inclusão de diversas situações dentro de uma determinada especificação legal.
+Elementos
+Para que a justa causa seja válida, é preciso que estejam presentes alguns elementos essenciais, que são:
+•	Atualidade: significa que a falta cometida pelo empregado deve ser recente, e que o empregador deve puni-lo logo após tomar conhecimento do fato.
+•	Gravidade: significa que a falta cometida pelo empregado deve ser séria e relevante, a ponto de tornar impossível a continuação do contrato de trabalho.
+•	Proporcionalidade: A justa causa é uma medida extrema, que deve ser reservada para as faltas mais graves e reincidentes. O empregador deve usar de bom senso e razoabilidade na aplicação da pena, levando em conta o histórico do empregado, a natureza do serviço, o grau de culpa e as consequências da falta.
+•	Imediação: significa que deve haver uma relação direta entre a falta cometida pelo empregado e a punição aplicada pelo empregador. Não pode haver nenhuma outra causa ou motivo que interfira na decisão do empregador. Além disso, o empregador não pode punir o empregado duas vezes pela mesma falta, pois isso seria uma dupla penalização, ou non bis in idem.
+Ônus da prova
+O "ônus da prova" refere-se à responsabilidade de apresentar evidências para comprovar determinada alegação em um processo judicial. No contexto do encerramento do contrato de trabalho por justa causa, o ônus da prova recai sobre o empregador, que deve demonstrar, de maneira clara e convincente, os motivos que justificam a rescisão por justa causa.
+É importante destacar que, em casos de rescisão por justa causa, a legislação trabalhista muitas vezes estabelece a necessidade de uma prova robusta e clara por parte do empregador, dado que a justa causa implica em uma penalidade severa para o empregado.
+62
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Caso o empregador não consiga apresentar provas suficientes ou caso a justa causa não esteja respaldada legalmente, a decisão pode ser considerada injusta e contestada judicialmente pelo empregado. Nesse contexto, o ônus da prova pode se inverter, e o empregado terá a oportunidade de apresentar evidências contrárias.
+É recomendável que as empresas sigam procedimentos disciplinares adequados, documentem as faltas e as medidas disciplinares tomadas, garantindo que o processo de rescisão por justa causa seja realizado de forma transparente, ética e legal.
+5.2.4.4 Hipóteses de justa causa
+Como mencionado anteriormente, as situações em que um empregador pode demitir um funcionário por justa causa são claramente listadas no artigo 482 da CLT. Para que a demissão seja considerada justa causa, é preciso que o comportamento do funcionário se enquadre em uma dessas razões específicas que serão apresentadas a seguir.
+A)	Ato de improbidade
+O encerramento do contrato de trabalho por justa causa na hipótese de ato de improbidade está previsto na legislação trabalhista, especificamente no artigo 482, alínea “a”, da Consolidação das Leis do Trabalho (CLT) no contexto brasileiro. A improbidade, nesse contexto, refere-se a atos de desonestidade, fraude, ou comportamentos que atentam contra a ética e a integridade no ambiente de trabalho.
+Alguns exemplos de condutas que podem configurar ato de improbidade e justificar a rescisão por justa causa incluem: Furto ou Roubo, Fraude ou Falsificação, Corrupção, Desonestidade Financeira, Conflito de Interesses Não Declarado, Manipulação de Informações Confidenciais.
+Caso:
+> Francisco é acusado de utilizar informações confidenciais da empresa para benefício pessoal, prejudicando os negócios. A empresa considera encerrar o contrato de trabalho por justa causa devido à gravidade do ato. A empresa possui fundamentos sólidos para a rescisão por justa causa? Quais elementos devem ser considerados, e como garantir conformidade com a legislação trabalhista?
+Resposta: Sim, a empresa pode encerrar o contrato por justa causa, desde que existentes provas substanciais do ato de improbidade. Deve seguir os trâmites legais, notificar formalmente Francisco,
+63
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+proporcionar sua defesa e assegurar conformidade com requisitos legais, como proporcionalidade e devido processo legal.
+B)	Incontinência de conduta
+A hipótese de "incontinência de conduta" refere-se a uma falta grave cometida pelo empregado relacionada ao seu comportamento inadequado ou desrespeitoso, que cause constrangimento no ambiente de trabalho. A expressão "incontinência de conduta" é utilizada na legislação trabalhista brasileira, especificamente no artigo 482, alínea "e" da CLT.
+A incontinência de conduta refere-se a comportamentos que demonstram falta de decoro ou respeito, podendo incluir situações como assédio sexual, linguagem ofensiva, exposição indevida de partes do corpo, comportamento obsceno, entre outros.
+Caso:
+> Maria Oliveira trabalhou como assistente administrativa na Visão de Valor Ltda. por três anos. Nos últimos meses, sua conduta no ambiente de trabalho tornou-se problemática: Maria demonstrou repetidos episódios de comportamento inadequado, incluindo linguagem ofensiva e desrespeitosa em relação a colegas e superiores, ignorou regras da empresa, como o uso excessivo de redes sociais durante o expediente, mesmo após advertências formais.
+Diante da persistência nas atitudes inadequadas e da falta de correção, a Visão de Valor Ltda. tomou a decisão de encerrar o contrato de trabalho de Maria Oliveira por justa causa, baseada na hipótese de "Incontinência de Conduta".
+C)	Mau procedimento
+Acontece quando o empregado comete uma falta grave que não se encaixa em nenhuma das outras situações previstas na lei, mas que abala a confiança e a boa-fé que devem existir entre as partes.
+O empregado que é demitido por justa causa por mau procedimento perde vários direitos, como aviso prévio, multa do FGTS, seguro-desemprego, entre outros.
+64
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Caso:
+> João trabalha como vendedor em uma loja de roupas há dois anos. Ele tem um bom desempenho nas vendas, mas costuma se envolver em conflitos com os colegas e os clientes. Em uma ocasião, ele xingou um cliente que reclamou do preço de uma peça. Em outra, ele agrediu verbalmente uma colega que o acusou de roubar sua comissão. O gerente da loja, cansado das atitudes de João, decidiu demiti-lo por justa causa, alegando mau procedimento. Diante disso a demissão de João por justa causa foi correta? Qual é o fundamento legal para essa decisão?
+Resposta: A demissão de João por justa causa foi correta, pois ele cometeu uma falta grave que abalou a confiança e a harmonia no ambiente de trabalho. O fundamento legal para essa decisão é o artigo 482, alínea b, da CLT, que prevê como justa causa para a rescisão do contrato de trabalho pelo empregador a incontinência de conduta ou o mau procedimento.
+D) Negociação habitual
+A negociação habitual, como conceito, não é geralmente uma justificativa direta para o encerramento do contrato de trabalho por justa causa. No entanto, dependendo do contexto e das práticas específicas envolvidas, certas situações relacionadas a negociações habituais podem levar a questões éticas, violações contratuais ou outros problemas que, se graves, poderiam justificar uma rescisão por justa causa.
+É importante distinguir entre a negociação habitual considerada normal no contexto de negócios, como a negociação de contratos ou transações comerciais, e a prática de atividades que possam constituir quebra de confiança, conflito de interesses ou violação de deveres contratuais.
+Caso:
+> Carlos Santos, vendedor experiente na Empresa Avance Comércio Ltda., foi demitido por justa causa devido à prática recorrente de negociações desleais. Carlos concedia descontos significativos sem autorização, prejudicando a lucratividade da empresa. Após notificações formais e uma reunião disciplinar sem sucesso na correção do comportamento, a empresa optou pelo encerramento do contrato por justa causa, visando preservar a integridade financeira e ética do negócio.
+65
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+E)	Condenação criminal
+De acordo com o artigo 482, alínea “d” da CLT, constitui motivo para rescisão por justa causa a condenação criminal do empregado, passada em julgado, caso esta inviabilize a continuidade da relação de emprego. Isso significa que, se um empregado é condenado criminalmente de forma definitiva, de modo que não exista mais a possibilidade de recurso, e essa condenação torna impossível a manutenção do contrato de trabalho, o empregador pode optar por rescindir o contrato por justa causa.
+Caso:
+> Armando, um dedicado funcionário de uma empresa de tecnologia, oi condenado criminalmente por um crime não relacionado ao trabalho, resultando em uma sentença de prisão de longo prazo. A empresa, após tomar conhecimento da condenação e confirmar a veracidade da informação, decide encerrar o contrato de trabalho de Armando por justa causa, com base na hipótese de condenação criminal. Qual a justificativa para a ação que a empresa tomou? E quais a principais consequências que Armando sofrerá?
+Resposta: A empresa justifica a decisão explicando que a condenação criminal de longo prazo impossibilita a continuação do contrato de trabalho, já que Armando não poderá cumprir suas obrigações contratuais durante o período de sua sentença. Como resultado, Armando perde certos direitos trabalhistas que teria se fosse demitido sem justa causa, como aviso prévio, multa de 40% sobre o saldo do FGTS e seguro-desemprego.
+F)	Desídia
+A rescisão do contrato de trabalho por justa causa na hipótese de "desídia" ocorre quando o empregado demonstra negligência, descuido ou falta de zelo em relação às suas responsabilidades no trabalho. "Desídia" é um termo jurídico que se refere à falta de diligência, à preguiça ou à inatividade no desempenho das funções laborais.
+Na legislação trabalhista brasileira, a desídia é um dos fundamentos previstos no artigo 482, alínea "e" da CLT. Alguns exemplos de situações que podem configurar desídia incluem:
+Falta frequente ou atrasos constantes, onde o empregado apresenta um histórico consistente de faltas injustificadas ou atrasos no trabalho; Baixo rendimento ou produtividade, no qual o empregado não atinge os padrões mínimos de rendimento ou produtividade esperados para a função;
+66
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Descuido com equipamentos e materiais, onde nesses casos o empregado não cuida adequadamente dos equipamentos, ferramentas ou materiais necessários para a execução de suas tarefas; Desatenção às normas e procedimentos da empresa, onde o empregado demonstra falta de atenção ou descuido em relação às normas, procedimentos e políticas da empresa; Má gestão do tempo onde o empregado não gerencia eficientemente seu tempo de trabalho, resultando em atrasos ou na não conclusão de tarefas no prazo.
+Caso:
+> Regina trabalha como gerente em um grande escritório. Recentemente, ela tem chegado atrasada ao trabalho, perdido prazos importantes e negligenciado suas responsabilidades. Seus colegas de trabalho notaram uma queda significativa em sua produtividade e qualidade do trabalho. Apesar de receber vários avisos escritos e verbais de seu supervisor, Regina não melhorou seu comportamento. Ela continuou a mostrar falta de interesse em suas tarefas, negligenciando suas responsabilidades e prejudicando o desempenho da equipe.
+O escritório decidiu então encerrar o contrato de trabalho de Regina por justa causa, sob a alegação de desídia.
+G)	Embriaguez
+A alínea "f" do artigo 482 da CLT considera como falta grave passível de rescisão por justa causa o ato de embriaguez habitual ou em serviço. Isso significa que o empregado que, de forma habitual, apresenta-se embriagado no ambiente de trabalho, ou que se embriaga durante o exercício de suas funções, pode ter seu contrato de trabalho encerrado por justa causa. Isso ocorre porque a embriaguez pode diminuir a concentração, memória e equilíbrio do funcionário, causando problemas no desempenho das atividades profissionais e afetando a relação de trabalho.
+Apenas o fato de beber álcool não é motivo para demissão, mas sim o consumo excessivo e descontrolado, levando à embriaguez e, consequentemente, à falta de clareza e controle nas ações do funcionário. Isso pode ter efeitos negativos no ambiente de trabalho. Portanto, se um funcionário beber álcool durante o expediente, mas isso não resultar em embriaguez, não será considerado motivo para demissão, é importante destacar que, no caso de estar embriagado devido a doença ou de forma involuntária, não será possível aplicar o artigo 482, pois se trata de uma situação fora do controle da vontade do trabalhador.
+67
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Alguns pontos importantes a serem considerados sobre o encerramento do contrato de trabalho por justa causa devido à embriaguez incluem: Embriaguez Habitual: Refere-se ao hábito do empregado de comparecer ao trabalho embriagado de maneira frequente, configurando um padrão de comportamento que afeta o desempenho no trabalho; Embriaguez em Serviço: Refere-se ao ato de se embriagar durante o expediente, comprometendo a capacidade de realizar as tarefas de maneira segura e eficiente; Prova da Embriaguez: Para justificar a rescisão por justa causa, é importante que o empregador possua evidências claras da embriaguez do empregado. Isso pode incluir testemunhos, registros de ocorrências, vídeos, entre outros.		
+	Caso:	
+> Cláudia trabalhava em uma empresa de cosméticos naturais Vital Nature há 5 (cinco) anos. Ela era uma funcionária dedicada e sempre cumpria suas tarefas com responsabilidade. No entanto, nos últimos meses, Cláudia começou a apresentar um comportamento estranho no trabalho. Ela chegava atrasada, não cumpria prazos e cometia erros em suas tarefas. Além disso, ela começou a beber durante o horário de trabalho, o que afetou sua produtividade e a qualidade do seu trabalho. O chefe de Cláudia tentou conversar com ela sobre seu comportamento, mas ela não parecia disposta a mudar. Depois de várias tentativas, o chefe decidiu demiti-la por justa causa, com base no artigo 482 da CLT, que prevê a demissão por embriaguez habitual ou em serviço. H) Violação de segredo da empresa A violação de segredo da empresa ocorre quando um empregado, de forma deliberada, divulga ou utiliza informações confidenciais da empresa sem autorização, prejudicando a organização. Onde a divulgação não autorizada de segredos empresariais pode resultar em danos financeiros, perda de clientes, vantagens competitivas comprometidas e, em alguns casos, pode até afetar a reputação da empresa.		
+	Caso:	
+> Em uma empresa de Software, Pedro, que exercia a função de desenvolvedor, foi demitido por justa causa devido à violação de segredo empresarial. Ele foi flagrado transferindo códigos-fonte e informações confidenciais para um dispositivo externo. Investigações		
+68
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+revelaram que Pedro planejava iniciar um empreendimento concorrente, usando os segredos comerciais da empresa.
+I)	Indisciplina
+O encerramento do contrato de trabalho por justa causa na hipótese de indisciplina ocorre quando o empregado comete atos de insubordinação ou desrespeito às normas e ordens da empresa, configurando uma falta grave. Esse motivo está previsto no artigo 482, alínea "h," da CLT.
+A indisciplina é caracterizada por atos que vão contra a autoridade e as regras estabelecidas pela empresa, prejudicando a ordem e a harmonia no ambiente de trabalho.
+J)	Insubordinação
+A insubordinação acontece quando o empregado age de maneira desrespeitosa ou desobedece a ordens e orientações legítimas do empregador, ou seja, ocorre quando o funcionário não segue uma instrução pessoal e específica dada diretamente pelo empregador.
+K) Abandono de emprego
+O abandono de emprego é uma situação em que o trabalhador deixa de comparecer ao trabalho sem justificativa e sem comunicar formalmente sua saída ao empregador. Essa ausência prolongada pode configurar uma falta grave por parte do empregado, sujeita a consequências previstas na CLT em seu artigo 482, alínea “i”.
+Para configurar o abandono de emprego, dois elementos geralmente devem estar presentes: Onde no primeiro o empregado deve estar ausente do trabalho por um período prolongado, sem apresentar uma justificativa razoável para essa ausência. O prazo considerado prolongado pode variar dependendo da legislação local ou das políticas internas da empresa. Já no segundo o empregado deve demonstrar falta de comunicação ou resposta ao empregador. Isso significa que, mesmo após tentativas razoáveis de entrar em contato com o empregado, seja por telefone, e-mail ou outros meios, não há resposta ou justificativa para a ausência.
+69
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Se o empregado apresentar uma justificativa razoável para sua ausência, o empregador pode considerar outros encaminhamentos, como concessão de licença ou aplicação de outras medidas disciplinares, dependendo das circunstâncias.
+Vale ressaltar que, em muitos casos, os empregadores têm a responsabilidade de tentar contatar o empregado antes de tomar medidas mais drásticas, como a rescisão por abandono de emprego. Procedimentos internos claros e comunicações formais podem ser adotados para garantir que o empregado tenha a oportunidade de explicar sua ausência antes que a rescisão seja efetivada.
+Caso:
+> Numa empresa de consultoria, Joana, antes dedicada, começou a ter comportamento irregular, atrasos e faltas sem justificativa. Após tentativas de diálogo, ela deixou de comparecer ao trabalho sem aviso. diante disso como a empresa de consultoria pode lidar com o comportamento irregular de Joana e qual seria o desfecho em relação ao encerramento do contrato de trabalho?
+Resposta: Diante do comportamento irregular de Joana, marcado por atrasos, faltas injustificadas e a falta de resposta às tentativas de diálogo, a empresa pode optar por encerrar o contrato de trabalho por justa causa, alegando a hipótese de abandono de emprego. Essa decisão terá fundamento na observação da falta de comprometimento com as responsabilidades profissionais e na ausência não justificada ao trabalho.
+L) Ato lesivo à honra e boa fama
+A rescisão do contrato de trabalho por justa causa na hipótese de "ato lesivo à honra e boa fama" acontece quando o empregado comete ações que causem danos à reputação e à imagem da empresa, de seus funcionários ou de terceiros, configurando uma falta grave. Essa hipótese está prevista na legislação trabalhista brasileira, no artigo 482, alíneas “j” e "k" da CLT.
+Alguns exemplos de comportamentos que podem ser enquadrados nessa hipótese incluem: Fazer acusações falsas e prejudiciais contra colegas de trabalho, superiores, clientes, fornecedores, ou a própria empresa; Espalhar informações falsas ou prejudiciais sobre a empresa, seus produtos, serviços ou colaboradores; Expressar opiniões discriminatórias, racistas, sexistas ou ofensivas que possam prejudicar a reputação da empresa ou de seus membros; Atos de agressão verbal que ultrapassem os limites do respeito no ambiente de trabalho.
+70
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Caso:
+> Ana era uma designer de interiores em uma empresa de arquitetura bem estabelecida. Ela era conhecida por seu estilo inovador e atenção aos detalhes. No entanto, Ana começou a espalhar rumores falsos sobre sua colega de trabalho, Beatriz, em um blog de design de interiores. Ana alegou que Beatriz estava copiando seus projetos e os apresentando como seus próprios. Essas alegações eram infundadas e prejudicaram a reputação de Beatriz na comunidade de design.
+Quando a empresa descobriu as ações de Ana, eles decidiram demiti-la por justa causa. A empresa citou o artigo 482 da CLT, que considera como justa causa para rescisão do contrato de trabalho pelo empregador, ato lesivo à honra e boa fama.
+M) Ofensa física
+A “ofensa física” como hipótese para o encerramento do contrato de trabalho refere-se a situações em que um empregado causa danos físicos a colegas de trabalho, superiores hierárquicos, clientes ou qualquer pessoa no ambiente de trabalho.
+Porém se alguém defende a si mesmo ou a outra pessoa de maneira legítima, isso elimina totalmente a ilegalidade da ação agressora do empregado. Portanto, não se aplica a situação de justa causa nesse contexto.
+N)	Prática constante de jogos de azar
+O envolvimento frequente em jogos de azar pode ser interpretado como uma forma de indisciplina, especialmente se a prática afetar o desempenho no trabalho, a concentração ou se estiver em desacordo com as políticas internas da empresa.
+A Lei das Contravenções Penais em seu Art. 50, § 3ºdispõe o que pode ser considerado como jogo de azar, sendo: a) o jogo em que o ganho e a perda dependem exclusiva ou principalmente da sorte; b) as apostas sobre corrida de cavalos fora de hipódromo ou de local onde sejam autorizadas; c) as apostas sobre qualquer outra competição esportiva. Por outro lado, os jogos que exigem alguma habilidade do jogador para ter sucesso não são considerados ilegais, de acordo com as leis vigentes atualmente.
+71
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+É importante destacar que, para caracterizar a justa causa, a prática constante de jogos de azar deve ser claramente relacionada ao ambiente de trabalho ou ao exercício das atividades laborais. Além disso, o empregador deve seguir procedimentos disciplinares adequados, que podem incluir advertências prévias e oportunidades para correção de conduta, antes de optar pela rescisão por justa causa.
+O)	Perda da habilitação ou dos requisitos estabelecidos em lei para o exercício da profissão
+Essa hipótese refere-se às situações em que um profissional deixa de atender aos critérios ou exigências legais necessários para exercer determinada profissão ou perder a habilitação que seja essencial para o desempenho do seu trabalho por sua própria culpa. Esse é um dos fundamentos previstos na legislação trabalhista para que o empregador possa rescindir o contrato de trabalho de forma imediata e justificada.
+A perda da habilitação pode ocorrer por diversos motivos, como infrações éticas, condutas inadequadas, falta de atualização profissional, entre outros. Se o profissional perde a licença ou registro necessário para exercer a profissão, isso pode ser uma base para a rescisão por justa causa.
+Também vale salientar que essa hipótese é mais comum em profissões que possuem órgãos de regulamentação, como conselhos de classe. Exemplos incluem médicos, advogados, engenheiros, entre outros.
+P) Atos atentatórios à segurança nacional
+É uma medida extrema e rara, geralmente relacionada a situações em que um empregado é acusado de envolvimento em atividades que representam uma ameaça à segurança do Estado.
+Cabe destacar que a determinação sobre o que constitui uma ameaça à segurança nacional geralmente envolve questões sensíveis e requer uma análise aprofundada. Em muitos casos, esse tipo de decisão pode ser objeto de investigações por parte dos órgãos de segurança e das autoridades competentes.
+72
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+PEDIDO DE DEMISSÃO
+A extinção do contrato de trabalho pelo pedido de demissão ocorre quando o próprio empregado manifesta sua vontade de encerrar o vínculo empregatício com o empregador.
+Segundo o artigo 487 da CLT, o pedido de demissão deve ser feito com antecedência mínima de 30 dias, se o empregado receber por quinzena ou mês, ou de 8 dias, se receber por semana ou tempo inferior. Caso o empregado não cumpra o aviso prévio, o empregador poderá descontar o valor correspondente do salário.
+As verbas rescisórias devidas ao empregado que pede demissão são: saldo de salário, férias vencidas e proporcionais com 1/3, 13º salário proporcional e, se houver, multa por descumprimento de cláusula contratual. O empregado não tem direito ao saque do FGTS nem à indenização de 40% sobre o saldo, nem ao seguro-desemprego.
+RESCISÃO INDIRETA
+A rescisão indireta do contrato de trabalho é uma das formas de extinção do vínculo empregatício por iniciativa do empregado, quando o empregador comete alguma falta grave que torna insustentável a continuidade da relação de trabalho. É basicamente à justa causa aplicada pelo empregador, só que ao contrário.
+A rescisão indireta está prevista no artigo 483 da CLT, que enumera as hipóteses em que o empregado poderá considerar rescindido o contrato e pleitear a devida indenização.
+Art. 483 - O empregado poderá considerar rescindido o contrato e pleitear a devida indenização quando:
+a)	forem exigidos serviços superiores às suas forças, defesos por lei, contrários aos bons costumes, ou alheios ao contrato;
+b)	for tratado pelo empregador ou por seus superiores hierárquicos com rigor excessivo;
+c)	correr perigo manifesto de mal considerável;
+d)	não cumprir o empregador as obrigações do contrato;
+e)	praticar o empregador ou seus prepostos, contra ele ou pessoas de sua família, ato lesivo da honra e boa fama;
+73
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+f)	o empregador ou seus prepostos ofenderem-no fisicamente, salvo em caso de legítima defesa, própria ou de outrem;
+g)	o empregador reduzir o seu trabalho, sendo este por peça ou tarefa, de forma a afetar sensivelmente a importância dos salários.
+Para que a rescisão indireta seja reconhecida, o empregado deve comprovar que o empregador incorreu em uma das faltas acima, e que houve a ruptura definitiva da confiança entre as partes. Além disso, o empregado deve manifestar de forma clara e imediata a sua intenção de rescindir o contrato, não podendo permanecer trabalhando após a falta cometida pelo empregador.
+O empregado que obtém a rescisão indireta na Justiça do Trabalho tem direito a receber as mesmas verbas rescisórias que receberia se fosse dispensado sem justa causa.
+ENCERRAMENTODO CONTRATO DE TRABALHO POR DESAPARECIMENTO DE UMA DAS PARTES
+Ocorre quando uma das partes da relação de trabalho falece ou deixa de existir juridicamente. Nesse caso, o contrato de trabalho se extingue de forma automática e definitiva, sem necessidade de aviso prévio ou indenização.
+A extinção do contrato de trabalho por desaparecimento de uma das partes pode se dar nas seguintes situações:
+•	Morte do empregado: nesse caso, o empregador deve pagar aos dependentes do empregado falecido as verbas rescisórias devidas, como saldo de salário, férias vencidas e proporcionais com 1/3, 13º salário proporcional, multa de 40% sobre o saldo do FGTS e liberação das guias para saque do FGTS e seguro-desemprego.
+•	Morte do empregador individual: nesse caso, se o empregador for uma pessoa física que exerça atividade econômica sem constituir pessoa jurídica, como um profissional liberal ou um comerciante autônomo, o seu falecimento implica na extinção do contrato de trabalho dos seus empregados. Nessa hipótese, os herdeiros do empregador devem pagar as verbas rescisórias aos empregados, nos mesmos moldes do caso anterior.
+•	Extinção da pessoa jurídica empregadora : nesse caso, se o empregador for uma pessoa jurídica, como uma sociedade, uma fundação ou uma associação, e esta deixar de existir por qualquer motivo, como dissolução, liquidação, falência ou incorporação, o
+74
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+contrato de trabalho dos seus empregados se extingue. Nessa situação, a pessoa jurídica empregadora ou seus sucessores devem pagar as verbas rescisórias aos empregados, conforme os casos anteriores.
+RESCISÃO POR CULPA RECÍPROCA
+A extinção do contrato de trabalho por culpa recíproca é uma forma de terminar o vínculo empregatício quando tanto o empregado quanto o empregador cometem faltas graves, na mesma ocasião, que prejudicam a relação de trabalho.
+O empregado que obtém a extinção do contrato de trabalho por culpa recíproca na Justiça do Trabalho tem direito a receber metade das verbas rescisórias que receberia se fosse demitido sem justa causa, ou seja:50% do aviso prévio;50% das férias vencidas e proporcionais com 1/3;50% do 13º salário proporcional;20% de multa sobre o saldo do FGTS; Liberação das guias para saque de 50% do FGTS, mas sem direito ao seguro-desemprego.
+ENCERRAMENTO DO CONTRATO DE TRABALHO POR COMUM ACORDO
+A extinção do contrato de trabalho por comum acordo é uma forma de terminar o vínculo empregatício quando o empregado e o empregador concordam em encerrar o contrato de trabalho.
+Para que o contrato de trabalho seja extinto por comum acordo, é preciso que o empregado faça um pedido por escrito, declarando que está de acordo com essa forma de rescisão e que está ciente dos seus direitos e deveres.
+FORÇA MAIOR
+Essa forma de encerramento do contrato de trabalho ocorre quando acontece um evento inevitável, imprevisível e alheio à vontade do empregador, que impede a continuação da atividade econômica. Por exemplo a pandemia de Covid-19 é um evento que pode ser considerado como força maior, pois se enquadra diretamente as características do referido tópico, onde também afetou profundamente a economia e a saúde pública de vários países.
+75
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+A extinção do contrato de trabalho por força maior só pode ser alegada se o empregador provar que o evento causou um forte abalo econômico e financeiro na empresa, que não houve imprudência ou negligência da sua parte, e o a extinção do contrato deve afetar todos os empregados sem exceções
+. Quando o contrato de trabalho é extinto por força maior, o empregador deve pagar ao empregado as seguintes verbas rescisórias: Saldo de salário; Férias vencidas e proporcionais com 1/3;13º salário proporcional;20% de multa sobre o saldo do FGTS; Liberação das guias para saque de 80% do FGTS.
+FACTUM PRINCIPS (FATO DO PRÍNCIPE)
+Factum principis, ou fato do príncipe, é uma situação em que o contrato de trabalho é encerrado por causa por atos da administração pública que impedem ou dificultam a continuação da atividade econômica. Diferente da extinção por força maior, pois nesta o evento que causa o prejuízo ao empregador é alheio à vontade humana, como um desastre natural ou uma guerra.
+Nesse caso o empregador precisa pagar ao empregado as seguintes compensações: Saldo de salário; Férias vencidas e proporcionais com 1/3;13º salário proporcional;20% de multa sobre o saldo do FGTS; Liberação das guias para saque de 80% do FGTS.
+76
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 6
+FGTS
+Daryssa Rodrigues Viana
+Elivania dos Santos Marques
+O Fundo de Garantia por Tempo de Serviço foi criado em 1966 pela Lei 5.107/66, tinha como objetivo garantir a estabilidade do empregado, ao completar 10 anos de trabalho na mesma empresa não poderia ser demitido, a não ser com justa causa.
+Atualmente uma das principais características é proporcionar benefícios além da estabilidade após o final do vínculo empregatício, pode ser utilizado em emergências, tratamento de doenças graves e até mesmo na aquisição da casa própria.
+•	Quem tem direito?
+Quaisquer indivíduos que possuírem vínculo empregatício, empregados urbanos ou rurais, empregados domésticos e até mesmo avulsos.
+Aqueles que tem regime jurídico próprio, como autônomos, servidores públicos civis e militares não fazem parte do regime de FGTS.
+PROCESSO DE RECOLHIMENTO E GUIA
+Guia de Recolhimento
+FGTS não é um desconto e, sim, uma despesa da empresa, cuja responsabilidade de pagamento é do empregador usando a remuneração do empregado como base para o recolhimento.
+A alíquota do saldo do FGTS corresponde a 8% da remuneração mensal do cidadão, o montante recolhido pode variar de acordo com a base de cálculo. Essa alíquota é aplicada para todos que possuem vínculo empregatício, mas haverá uma exceção em relação ao empregado doméstico.
+77
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	Quando e onde o depósito deve ser feito?
+É obrigação do empregador depositar o referente valor calculado até o dia 7 do mês seguinte à competência trabalhada. O depósito deve ser feito na conta do empregado através da Guia de Recolhimento do FGTS (GRF), onde é gerada no aplicativo desenvolvido pela Caixa Econômica Federal: SEFIP (Sistema Empresa de Recolhimento do FGTS e Informações à Previdência Social).
+FGTS - JOVEM APRENDIZ E DOMÉSTICO
+Jovem aprendiz
+O jovem aprendiz assim como qualquer trabalhador formal, tem direito ao FGTS. A única diferença é que a alíquota, seria uma contribuição de 2% do salário do aprendiz. Essa alíquota é inferior ao do empregado celetista para que venha a ser menos oneroso para a empresa.
+Empregado Doméstico
+Além da alíquota de 8%, essa categoria doméstica é acrescida de 3,2% destinado ao pagamento da indenização compensatória da perda do emprego, sem justa causa ou por culpa reciproca. Assim, em caso de rescisão contratual o pagamento dos 3,2% depositados mensalmente, substituirão o pagamento de 40% de multa rescisória.
+O recolhimento do FGTS e as demais operações sobre a folha de pagamento, são efetuados através da guia DAE (Documento de Arrecadação eSocial). Esses dados são coletados através do eSocial, onde é um instrumento de prestação das informações referentes às obrigações fiscais, previdenciárias e trabalhistas.
+SITUAÇÕES DE SAQUE
+•	Aposentadoria concedida pela Previdência Social, e quando tiver idade igual ou superior a 70 anos.
+Ao ter sua aposentadoria concedida pela Previdência Social, o empregado passa a ter acesso ao saque da totalidade dos valores depositados em sua conta vinculada. Caso o empregado
+78
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+permaneça em suas atividades laborais, após a concessão da aposentadoria poderá realizar o saque mensalmente do FGTS.
+•	Aquisição de moradia própria.
+Em regra, a Caixa Econômica Federal vai analisar algumas condições para o referido saque:
+O empregado deve estar no mínimo a 3 anos de trabalho sob o regime do FGTS; não ser proprietário, usufrutuário ou comprador de outro imóvel residual, concluído ou em construção.
+•	Doenças graves.
+Quando o empregado ou seus dependentes precisarem de tratamentos decorrentes de doenças graves ou em estágio terminal, como vírus HIV, Neoplasia maligna, estágio terminal em razão de qualquer outra doença grave. Cada referente situação precisa de uma documentação especifica a fim de comprovar a veracidade de cada doença.
+•	Situações de calamidades, urgências pessoais.
+Havendo necessidade pessoal, urgente e grave em decorrência de desastres naturais que tenham atingido o local ou área de sua residência, o trabalhador terá direito a sacar o saldo de sua conta de FGTS. Para que o valor seja disponibilizado é necessário um decreto do Governo do Distrito Federal, Município ou Estado que reconheça a ocorrência de calamidade.
+•	Saque aniversario.
+Essa modalidade permite que o empregado realize anualmente, saque de parte do saldo de sua conta de FGTS no mês de seu aniversário, sendo assim opcional. Aqueles que não aderirem ao saque-aniversario, permanecerão no saque-rescisão, onde é uma sistemática padrão.
+>	SITUAÇÃO 1:
+O empregado Fernando em 02/08/2020 optou pelo saque-aniversario do FGTS, entrando em vigor imediatamente. Dois meses depois decide retornar ao saque-rescisão, onde só entrará em vigor no primeiro dia do 25° mês após o pedido de mudança. Caso haja uma demissão sem justa causa ou extinção do contrato de trabalho em agosto de 2022, Fernando terá direito ao FGTS em modalidade saque-aniversario ou saque-rescisão?
+Fernando irá receber o FGTS somente no mês de seu aniversário, pois a efetivação da modalidade saque-rescisão só iria ocorrer em novembro de 2022.
+79
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+SITUAÇÕES EM RESCISÃO
+•	Pedido de demissão
+Quando o trabalhador pede demissão, ele não tem direito ao saque do saldo do FGTS e nem recebe a multa de 40% sobre o total depositado pelo empregador. O valor saldo fica retido na Caixa Econômica, e esse valor pode ser sacado mediante alguns critérios, como já foi abordado no tópico anterior.
+•	Demissão sem justa causa
+Nesse caso, o empregado tem direito a sacar o valor total do FGTS depositado durante o período de trabalho, acrescido da multa de 40% sobre esse valor. A multa de 40% é uma compensação ao trabalhador pela rescisão do contrato sem justificativa por parte do empregador.
+O trabalhador só não saca o saldo se ele já for optante pelo saque-aniversário, pois assim ele irá sacar somente nos próximos aniversários.
+•	Rescisão por término de contrato por prazo determinado
+Chegado ao fim do prazo determinado, o trabalhador terá direito ao saque do saldo do FGTS, mas não recebe a multa de 40%, visto que o fim do contrato já era previsto desde o início dele. Tipo de contrato muito comum em empresas como construtora, e nas admissões normais onde os primeiros 90 dias são de contrato de experiência.
+•	Rescisão por justa causa
+Em casos de demissão por justa causa, o trabalhador não tem direito a sacar o valor depositado na conta do FGTS, nem recebe multa de 40% sobre o saldo depositado.
+•	Aposentadoria
+Quando o trabalhador se aposenta, pode sacar o saldo do FGTS.
+80
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CAPÍTULO 7
+SEGURO-DESEMPREGO
+Crislane Costa dos Anjos
+Daniele Alves Costa CONCEITO
+O seguro-desemprego é um benefício que fornece amparo financeiro ao empregado demitido involuntariamente. Além disso, auxilia os trabalhadores desempregados na procura de um emprego, proporcionando programas de orientação, qualificação profissional e recolocação no mercado de trabalho.
+NATUREZA JURÍDICA
+De acordo com o professor Sérgio Pinto Martins, o seguro-desemprego não se enquadra como salário, uma vez que quem paga não é o empregador, ademais o contrato de trabalho já se encerrou quando o beneficiário começa a receber o beneficio. A constituição estabelece a Previdência Social como a responsável pela proteção dos trabalhadores demitidos involuntariamente, ou seja, aqueles que foram dispensados sem justa causa ou por demissão indireta, desse modo configura-se como um beneficio Previdenciário, pois o pagamento é feito por ela.
+O valor do seguro é utilizado para cobrir os gastos durante o período em que o trabalhador estiver desempregado, logo, o beneficio possui natureza alimentar.
+CUSTEIO
+O Fundo de Amparo ao Trabalhador (FAT), vinculado ao Ministério do trabalho, tem como principais fontes de recursos o Programa de Integração Social- PIS e o Programa de Formação do Patrimônio do Servidor Público- Pasep, tendo como finalidade o custeio do programa do seguro-desemprego, o pagamento do abono salarial e o financiamento de programas de desenvolvimento econômico, conforme o artigo 10 da Lei n. 7.998/90.
+O § 4ª do art. 239 diz que “O financiamento do seguro-desemprego receberá uma contribuição adicional da empresa cujo índice de rotatividade da força de trabalho superar o índice
+81
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+médio da rotatividade do setor, na forma estabelecida por lei”, ou seja, esta contribuição adicional vem por meio das empresas que possuem um grande volume de trabalhadores demitidos, pois consequentemente ocasionam o pagamento de vários seguros-desemprego, gerando dessa forma, um alcance significativo para o poder público.
+O Ministério do Trabalho e a Previdência são competentes para fiscalizar o programa do seguro-desemprego e do abono salarial (art.23 da Lei n. 7.998/90).
+QUEM TEM DIREITO AO SEGURO-DESEMPREGO?
+•	Os trabalhadores formais que tenham sidos dispensados sem justa causa, assim como o empregado doméstico, ou em caso de demissão indireta1;
+•	Os que trabalham em condição similar a escravidão, ou que foram resgatados do regime de trabalho forçado;
+•	Os pescadores artesanais, no período em que estiverem proibidos de pescarem, devido à preservação da espécie;
+•	Os trabalhadores temporários que forem demitidos antes do prazo estabelecido no contrato de trabalho.
+ATENÇÃO: O trabalhador de carteira assinada que for dispensado sem justa causa e possuir cadastro de CNPJ como MEI, também tem direito de receber o seguro-desemprego, desde que seja comprovado que ele não tenha renda suficiente para se mantiver ou que o CNPJ esteja inativo.
+REQUERIMENTO
+Para requerer o benefício, é exigido que o trabalhador formal tenha recebido remuneração de pessoa jurídica ou pessoa física, tendo trabalhado no mínimo 12 meses de carteira assinada nos últimos 18 meses anteriores à data da dispensa, quando for a 1ª solicitação; ao menos 9 meses nos últimos 12 meses anteriores à data da demissão, para requerer pela 2ª vez; e para solicitar pela 3ª vez em diante, deve ter trabalhado formalmente pelo menos 6 meses.
+1 A demissão indireta parte do empregado, isto ocorre quando o empregador não cumpre com o contrato de trabalho ou a lei
+82
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Enquanto para o empregado doméstico, é requisitado que tenha trabalho no mínimo 12 meses nos últimos 24 meses, sendo preciso comprovar que não receba nenhum seguro social, com exceção da pensão por morte e auxílio-acidente; e que não tenha renda própria para o seu sustento e o da sua família.
+No caso dos pescadores artesanais, é necessário que ele exerça a profissão de forma contínua, sozinho ou em regime de economia familiar, possuindo cadastro ativo no Regime Geral de pesca há pelo menos um ano, e, além disso, a lei não permite que tenha outro vínculo empregatício diferente da atividade pesqueira.
+Onde posso requerer o seguro-desemprego?
+É possível fazer o requerimento nos canais digitais do governo, tais como Portal Gov.br., no aplicativo Carteira de Trabalho e nos postos credenciados pelo Ministério do Trabalho. E de forma presencial, a solicitação é feita nas unidades das Superintendências Regionais do Trabalho.
+Um detalhe importante, é que o empregado doméstico só pode solicitar o seguro-desemprego presencialmente.
+E qual o prazo para fazer a solicitação?
+No caso dos trabalhadores formais, pode ser feito em até 120 dias, só sendo possível fazer o pedido a partir do 7° dia à data da dispensa. E para os empregados domésticos, o prazo é menor, podendo ser feito no 7º dia da demissão a 90 dias. E o intervalo de tempo para solicitar outro seguro-desemprego é de 16 meses.
+DOCUMENTAÇÃO NECESSÁRIA
+Para que o assegurado receba o beneficio, é necessária a apresentação dos seguintes documentos:
+•	Carteira de identidade;
+•	Carteira de trabalho (CTPS);
+•	Comunicação de dispensa (CD);
+•	Termo de Rescisão do Contrato de trabalho (TRCT);
+83
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+•	Documento de levantamento dos depósitos do FGTS (não é obrigatório).
+De acordo com o art. 28 da Lei Complementar n. 150/2015 o trabalhador domestico deverá apresentar a seguinte documentação:
+I - Carteira de Trabalho e Previdência Social, na qual deverão constar a anotação do contrato de trabalho doméstico e a data de dispensa, de modo a comprovar o vínculo empregatício, como empregado doméstico, durante pelo menos 15 (quinze) meses nos últimos 24 (vinte e quatro) meses;
+II	- termo de rescisão do contrato de trabalho;
+III	- declaração de que não está em gozo de benefício de prestação continuada da Previdência Social, exceto auxílio-acidente e pensão por morte; e
+IV	- declaração de que não possui renda própria de qualquer natureza suficiente à sua manutenção e de sua família.
+SUSPENSÃO
+No artigo 7º da lei do seguro-desemprego, está previsto que o pagamento do benefício será suspenso se o empregado for admitido em uma nova empresa, ou se começar a receber alguns benefícios da Assistência Social, como por exemplo, o benefício da prestação continuada e auxílio desemprego. Outra hipótese que a lei determina é a recusa do desempregado em participar de programas para se recolocar no mercado de trabalho.
+Exemplo:
+Pedro, beneficiário do seguro-desemprego, se acidentou e começou a receber o auxílio-acidente. O pagamento do seu primeiro benefício será suspenso devido à obtenção do auxílio da Assistência Social?
+Não, pois a lei prevê que no caso de recebimento do auxílio-acidente, suplementar e abono de permanência em serviço, o pagamento do seguro-desemprego não será suspenso.
+84
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+CANCELAMENTO
+Ocorre o cancelamento do benefício nas seguintes situações:
+•	Em caso de morte do segurado;
+•	Ou quando for comprovado fraude para o recebimento indevido do benefício;
+•	Quando for comprovado falsidade nas informações prestadas;
+•	Na situação em que o empregado se recusa a trabalhar em um emprego, que condiz com a sua competência registrada e com o seu salário anterior.
+PARCELAS
+As quantidades de parcelas que o beneficiário recebe, tem como base o tempo de serviço prestado na empresa, podendo usufruir do benefício por no máximo três meses, de forma revezada ou contínua.
+Exemplificando:
+•	Primeira solicitação
+“Após passar 18 meses na empresa Anjos Supermercados Ltda., João foi demitido sem justa causa, e possuindo meios que comprovam o vínculo empregatício, ele pede a solicitação do seguro-desemprego. Já Maria trabalhou durante 24 meses na empresa Bion Calçados Ltda., e assim como no primeiro caso, foi demitida sem justa causa.” Nesses dois casos analisados, João e Maria terão direito de receber a mesma quantidade de parcelas?
+Não, mesmo que os dois casos solicitem o benefício pela primeira vez, o tempo de vínculo empregatício é diferente. No primeiro caso, João irá receber quatro parcelas, pois trabalhou entre 12 e 23 meses. Já Maria, como trabalhou no mínimo 24 meses, terá o direito de adquirir cinco parcelas.
+•	Segunda solicitação
+“A empresa Beleza e Cosméticos Ltda. com o intuito de reduzir os seus gastos, demitiu três de seus funcionários, cada um com o tempo de permanência distinto. Enquanto o primeiro funcionário trabalhou por 2 anos, o segundo permaneceu na empresa por 15 meses e o último por 10 meses.” No exemplo supracitado, quantas parcelas cada um irá receber?
+85
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Na segunda solicitação, o trabalhador demitido poderá receber de 3 a 5 parcelas, dependendo do tempo trabalhado na empresa. Como o primeiro trabalhou 2 anos (24 meses), ele receberá cinco parcelas, enquanto o segundo terá o direito de receber 4, pois prestou serviços para a empresa entre 12 e 23 meses e o terceiro obterá 3 parcelas, visto que trabalhou entre o período de 9 a 11 meses.
+• Terceira solicitação em diante
+“Joana, foi demitida recentemente e como nas outras vezes, ela recorre ao auxílio de um contador para saber quantas parcelas ela tem direito.”
+Como Joana está requerendo pela terceira vez o seguro-desemprego, o contador explicou que para ela ter direito a três parcelas, o tempo de serviço necessário é de 6 a 11 meses, já para receber quatro, é preciso comprovar vínculo empregatício de 12 a 23 meses e para obter cinco parcelas, o tempo mínimo trabalhado deve ser de 24 meses, nos últimos 36 meses.
+O seguro-desemprego tem um alcance limitado, devido ao numero elevado de trabalhadores informais no Brasil. E com o objetivo de incentivar o beneficiário a se recolocar no mercado de trabalho, o valor do seguro não é pago por um período longo e nem possui o valor alto.
+CÁLCULO
+Em regra, as parcelas do seguro-desemprego são calculadas com base na média dos três últimos salários que a empresa se propôs a pagar mensalmente, estando incluso nesse valor os adicionais e as gratificações. Ou seja, deve-se levar em consideração o salário base e não o líquido.
+TABELA SEGURO-DESEMPREGO 2023	
+Faixas de Salário Médio	Cálculo da Parcela
+até R$ 1.968,36	multiplica-se o salário médio por 0,8
+de R$ 1.968,37 até R$ 3.280,93	o que exceder a R$ 1.968,36 multiplica-se por 0,5 e soma-se com R$ 1.574,69
+acima de R$ 3.280,93	o valor será invariável de R$ 2.230,97
+Observação: A parcela não poderá ser inferior ao valor do salário-mínimo, ou seja, R$ 1.302,00.
+86
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+Exemplos:
+Empregado Lucas
+Salário base:
+Mês 1	Mês 2	Mês 3
+R$ 1.500,00	R$ 1.700,00	R$ 1.400,00
+Cálculo da média:
+1.500,00 + 1.700,00+ 1.400,00 / 3 = 1.533,33
+Média dos últimos 3 meses trabalhados: 1.533,33
+Faixa da tabela: 1º (até R$ 1.968,37)
+Cálculo da parcela:
+R$ 1.533,33 x 0,8 = 1.226,66 por mês
+Nos casos em que o empregado não recebeu no mínimo 3 salários, a média será calculada de acordo com a quantidade que foi recebida.
+Exemplo:
+Empregada Lídia
+Salário base:
+Mês 1	Mês 2
+R$ 3.500,00	R$ 2.500,00
+Cálculo da média:
+3.500,00 + 2.500,00 / 2 = 3.000,00
+Média dos últimos 2 meses trabalhados: 3.000,00
+Faixa da tabela: 2º (de 1.968,37 a R$ 3.280,93)
+Cálculo da parcela:
+R$ 3.000,00 – R$ 1.968,36 = 1.031,64
+(1.031,64 x 0,5) + 1.574,69 = 2.090,51 por mês.
+87
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+REFERÊNCIAS BIBLIOGRÁFICAS
+ALMEIDA, André Luiz Paes. Direito do Trabalho: material, processual e legislação especial. 16 ed. São Paulo: Rideel 2016.
+BARROS, Alice Monteiro de. Curso de Direito do Trabalho. 9. Ed. São Paulo: LTr, 2013.
+CAIRO JR., José. Curso de direito do trabalho: direito individual e coletivo do trabalho. 15. Ed. Salvador: Ed. Juspodivm, 2018.
+CARREIRO, Luciano Dorea Martinez. Curso de direito do trabalho: relações individuais, sindicais e coletivas do trabalho. 11. Ed. São Paulo: SaraivaJur, 2020.
+CASSAR, Vólia Bomfim. Direito do trabalho: de acordo com a reforma trabalhista e a MP 808/2017. 15. Ed. Rio de Janeiro: Método, 2018.
+CORREIA, Henrique. Direito do trabalho. 4. Ed. Salvador: Jus Podivm, 2018.
+DELGADO, Mauricio Godinho. Curso de direito do trabalho. 17. Ed. São Paulo, SP: LTr, 2018.
+MARTINEZ, Luciano. Curso de Direito do Trabalho — relações individuais, sindicais e coletivas do trabalho. 7. Ed. São Paulo: Saraiva, 2016.
+MARTINS, Sérgio Pinto. Comentários à CLT. 23. Ed. São Paulo: Saraiva, 2020.
+RESENDE, Ricardo. Direito do trabalho. 8. Ed. Ver., atual. E ampl. São Paulo: Método, 2020.
+SCHIAVI, Mauro. Manual de Direito Processual do Trabalho. 9. Ed. São Paulo: LTr, 2015.
+TEIXEIRA, Maria Alaíde Bruno; SILVA, Edson Oliveira da (org.). Direito do trabalho contemporâneo: pandemia, reforma trabalhista e aspectos controversos. Curitiba: Juruá, 2021.
+TUPINAMBÁ, Carolina, (coord.). As novas relações trabalhistas e o futuro do direito do trabalho: as novidades provenientes de leis trabalhistas recentes. Belo Horizonte: Fórum, 2021.
+88
+GUIA PRÁTICO DE DIREITO DO TRABALHO
+SOBRE OS AUTORES
+Ana Clara Rodrigues de Oliveira é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar) e Técnica em Administração pela Escola Estadual de Educação Profissional Professor Emmanuel Oliveira de Arruda Coelho (EEEPEOAC). E -mail: anaclararodriguees1@gmail.com
+Ana Cristina Oliveira Aragão é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar) e Técnica em Administração pela EEEP Professor Emmanuel Oliveira de Arruda Coelho (EEEPEOAC). E -mail: aragaocristina81@gmail.com
+Ana Emanuely Carvalho de Oliveira é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E -mail: carvalhoanaemanuely@gmail.com
+Ana Rebeca Veras Brito Fontenele é graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E-mail: anarebecavbf@gmail.com
+Crislane Costa dos Anjos é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E-mail: costacrislane575@gmail.com
+Daniele Alves Costa é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba ( UFDPar ). E - mail: alvesdaniele307@gmail.com
+Daryssa Rodrigues Viana é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E - mail: daryssarodrigues19@hotmail.com
+Elivania dos Santos Marques é Graduanda em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E - mail: marqueselivania04@gmail.com
+Fernando Afonso Marques de Melo é Mestre (UFERSA) e Bacharel em Direito (UESPI). Professor da Universidade Federal do Delta do Parnaíba (UFDPar). E-mail: fernandoammelo96@gmail.com
+Jean Claudio da Costa Santos é Graduando em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E-mail: jeanclaudiosantos31@gmail.com
+Joel de Carvalho Fontenele é Especialista em Docência no Ensino Superior pela Faculdade Brasil Empreender (FBE). Graduado em Tecnologia em Processos Gerenciais pelo Instituto Federal do Piauí (IFPI). Graduando em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E-mail: joelfontenele.academico@gmail.com
+José Roberto Sales Aragão é Graduando em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E - mail: salesjoseroberto976@gmail.com
+Luiz Felipe França Pereira é Graduando em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). Email: felipefranxa@gmail.com
+Maria Andressa Silva Dourado é Graduando em Ciências Contábeis pela Universidade Federal do Delta do Parnaíba (UFDPar). E - mail: andressadourado04@gmail.com
+89
